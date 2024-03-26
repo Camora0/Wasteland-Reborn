@@ -62,10 +62,9 @@ If you have issues with files not downloading, manually download the files and d
 
 Current files known to have issues:
 1. [ENBSeries v0.496 for Fallout 4](http://enbdev.com/mod_fallout4_v0496.htm)
-2. [Colt Single Action Army - F4NV Discord](https://drive.google.com/file/d/1WmGuPCblM-L22O38qs939FRRs9ehnLsU/view) 
-3. [Anti-Material Rifle - F4NV Discord](https://drive.google.com/file/d/1PWkbzpFos4YQLGoxjbOi7OmAeikCBgnZ/view)
+2. [Colt Single Action Army - F4NV Discord](https://discord.com/invite/f4nv) 
+3. [Anti-Material Rifle - F4NV Discord](https://discord.com/invite/f4nv)
 
-*DEPRECATED!!!*
 You must join the F4NV Discord in order to download the AMR and CSAA files. Once you have joined, go to the ***F4NV News and Announcements*** tab and click on ***released-F4NV-content***. Then scroll up until you find those two files. They are located right under the **.45 Auto Pistol (Colt M1911)** mod.
 
 ## After Installation
@@ -79,10 +78,10 @@ Due to the size of this modlist, the developer was suggested to add BethINI Pie 
 2. Set the INI Path to: "(Your install folder)\profiles\Wasteland Reborn";
 3. Use the Restore Backup if you want to use your backed up INIs again. 
 
-It is recommended to use BethINI Pie to change:
-+ Changing the resolution of the game, display mode (default should be set and left at Borderless Windowed);
-+ Changing shadow properties;
-+ Changing view distances (these specific changes can have detrimental performance changes, thus leaving them at the set values are ***HIGHLY RECOMMENDED***).
+##While Bethini is open, change the following settings, if they are not already set up:
++ Change the resolution of the game (I use a 1440p monitor, and the inis are set as such.) , display mode (default should be set and left at Borderless Windowed);
++ Set the presets to Bethini Presets, and press the High button.
++ Apply the recommended tweaks as well. Then save your settings.
 
 ### Saving on disk space ***(Highly OPTIONAL)***
 
@@ -91,7 +90,16 @@ Note: If the user does end up cleaning the folder, a redownload ***WILL*** be in
 
 ### How to start up Wasteland Reborn
 
-Head over to the installation folder, locate the .exe file `ModOrganizer.exe` and launch it. Once it launches, there will be a drop-down box on the upper right and a big run button right next to it. Ensure it is set to `F4SE` select it in the drop-down box, and then click the run button which. You have to run `F4SE` through Mod Organizer 2 in order to load the mods correctly as Mod Organizer handles some mods via VFS (Virtual File System).
+First, open root folder and navigate to the "Preset Save Games" folder. Copy these files inside directly into profiles/Wasteland Reborn/saves. Make a saves folder if it is not already there. Head over to the installation folder, locate the .exe file `ModOrganizer.exe` and launch it. Once it launches, there will be a drop-down box on the upper right and a big run button right next to it. Ensure it is set to `F4SE` select it in the drop-down box, and then click the run button which. You have to run `F4SE` through Mod Organizer 2 in order to load the mods correctly as Mod Organizer handles some mods via VFS (Virtual File System).
+
+Whether making a new character or starting from a preset, navigate to the MCM settings on the pause menu. From there, click on -= MCM Settings Manager =- and apply the Wasteland Reborn preset. ***DO NOT SAVE OVER THIS PRESET BEFORE YOU HAVE APPLIED IT***
+If using a preset save, make sure to change your SPECIAL stats. This should prompt the game to reset your Tagged skills and traits the next time you open your Pip-Boy.
+
+When you reach the surface, you will be prompted to Inject LIF forms into the Leveled lists. Select inject. 
+
+Next the game will ask you about LAERs. Inject these as well.
+
+Finally, you'll be given a magazine on backpacks. When the pop-up prompt appears, select the default option.
 
 ### Updating the modlist
 

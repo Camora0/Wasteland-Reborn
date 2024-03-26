@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Wasteland Reborn",
     "description": "A full, bottom up redesign of Fallout 4. Over 650 handpicked mods to transform Fallout 4 into the game it could have been. A whole new leveling system, new quests and locations, and hundreds of new weapons and armor to bring the design of Fallout 3 and New Vegas into the Commonwealth.",
     "author": "Camora",
@@ -8,6 +7,7 @@
       "github/Camora0"
     ],
     "game": "fallout4",
+    "official": false,
     "tags": [
       "NeverNude",
       "Lore-Friendly",
@@ -17,25 +17,28 @@
       "Beta"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/drwA1H4.png",
       "readme": "https://github.com/Camora0/Wasteland-Reborn/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Wasteland%20Reborn.wabbajack_934cc4f0-b09c-4b8c-ba98-0e1f62ac31ff",
+      "download": "https://authored-files.wabbajack.org/Wasteland Reborn.wabbajack_cfc61629-c5e4-4f59-b9f2-ca0d08d8afb6",
       "machineURL": "wasteland_reborn",
       "discordURL": "https://discord.gg/HVmH8q4nfx"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "DMF1akAWzOs=",
-      "Size": 16646641,
-      "NumberOfArchives": 779,
-      "SizeOfArchives": 95903739939,
-      "NumberOfInstalledFiles": 95451,
-      "SizeOfInstalledFiles": 136548783659
+      "Hash": "Mgwp7NXnL7E=",
+      "Size": 370094453,
+      "NumberOfArchives": 778,
+      "SizeOfArchives": 95899828000,
+      "NumberOfInstalledFiles": 97146,
+      "SizeOfInstalledFiles": 137194644432
     },
-    "version": "0.5.0"
+    "version": "0.5.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-03-26T20:32:20.7235281Z",
+    "repositoryName": ""
   }
 ]

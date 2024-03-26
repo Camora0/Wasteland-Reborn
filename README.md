@@ -45,8 +45,8 @@ Download the latest version of Wabbajack [here](https://github.com/wabbajack-too
 The download and installation of Wasteland Reborn process may take a long time, depending on your system. To speed up this process it is advised to place the working folder on an SSD.
 
 1. Open Wabbajack.
-2. Click `browse modlists` then click the dropdown menu on top and select `Fallout 4` (don't forget to tick show `unofficial lists`), and download Wasteland Reborn from the Modlist Gallery.
-3. Set your download and installation paths. The recommended Installation Path is a blank folder at the root of a drive, such as C:\Wasteland Reborn. The download path will update automatically. You may also put the download folder on another drive, Such as installing the game on an SSD, but putting the download folder on a HDD. Then you save space on your SSD.
+2. Click `Browse Modlists` then click the dropdown menu on top and select `Fallout 4` (don't forget to tick `Show Unofficial Lists`), and download Wasteland Reborn from the Modlist Gallery.
+3. Set your download and installation paths. The recommended Installation Path is a blank folder at the root of a drive, such as C:\Wasteland Reborn. The download path will update automatically. There's an option to put the download folder on another drive, for example an HDD, while the instance stays on an SSD.
 5. Then click the Go/Begin button.
 6. Wait for Wabbajack to finish. It may take awhile, depending on your internet speed and if you are using an SSD or HDD.
 
@@ -74,7 +74,7 @@ You must join the F4NV Discord in order to download the AMR and CSAA files. Once
 
 Due to the size of this modlist, the developer was suggested to add BethINI Pie for those that are not very geeky with INIs. 
 
-### Setting BethINI Pie up incase it is not set up automatically:
+#### Setting BethINI Pie up incase it is not set up automatically:
 1. Set the Game Path to: "(Your install folder)\Stock Game and make sure to select ***Fallout4.exe***";
 2. Set the INI Path to: "(Your install folder)\profiles\Wasteland Reborn";
 3. Use the Restore Backup if you want to use your backed up INIs again. 
@@ -134,7 +134,7 @@ Further annotated in-depth in the [key mod/configuration guide](https://github.c
 
 ### Removing the Modlist
 
-To uninstall Wasteland Reborn simply delete the MO2 folder.
+To uninstall Wasteland Reborn simply delete the install folder.
 
 ## Credits and Thanks
 
@@ -146,4 +146,4 @@ A Raven of Many Hats - Maintaining The Midnight Ride, for which this list is bas
 
 The many, many users of DegenerateDak's Discord for providing feedback, positive and negative, to facilitate the development of this list.
 
-Palurien1985 for writing the first revision of the readme in such a short amount of time, ElisPlayz for corrections and future upkeep.
+Palurien1985 for writing the first revision of the readme in a moments notice, ElisPlayz for corrections and future upkeep.

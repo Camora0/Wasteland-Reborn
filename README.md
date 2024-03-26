@@ -50,6 +50,8 @@ The download and installation of Wasteland Reborn process may take a long time, 
 5. Then click the Go/Begin button.
 6. Wait for Wabbajack to finish. It may take awhile, depending on your internet speed and if you are using an SSD or HDD.
 
+While this is happening, the developer team suggests to download the mods that ***WILL*** cause issues later down the line if one does not download them before the end of the download phase *(these are linked below)*.
+
 #### Problems with Wabbajack
 
 If you run into download issues with Wabbajack, it is recommended to re-running Wabbajack before posting anything. Wabbajack will continue where it left off, so you will not have to start over.
@@ -67,6 +69,25 @@ Current files known to have issues:
 You must join the F4NV Discord in order to download the AMR and CSAA files. Once you have joined, go to the ***F4NV News and Announcements*** tab and click on ***released-F4NV-content***. Then scroll up until you find those two files. They are located right under the **.45 Auto Pistol (Colt M1911)** mod.
 
 ## After Installation
+
+### Modifying INIs
+
+Due to the size of this modlist, the developer was suggested to add BethINI Pie for those that are not very geeky with INIs. 
+
+### Setting BethINI Pie up incase it is not set up automatically:
+1. Set the Game Path to: "(Your install folder)\Stock Game and make sure to select ***Fallout4.exe***";
+2. Set the INI Path to: "(Your install folder)\profiles\Wasteland Reborn";
+3. Use the Restore Backup if you want to use your backed up INIs again. 
+
+It is recommended to use BethINI Pie to change:
++ Changing the resolution of the game, display mode (default should be set and left at Borderless Windowed);
++ Changing shadow properties;
++ Changing view distances (these specific changes can have detrimental performance changes, thus leaving them at the set values are ***HIGHLY RECOMMENDED***).
+
+### Saving on disk space ***(Highly OPTIONAL)***
+
+After a successful download deleting the ***downloads*** folder's content is safe. 
+Note: If the user does end up cleaning the folder, a redownload ***WILL*** be in order if they do end up deciding to update. As the modpack in the very first phase (open beta) expect to be bombarded with updates of any caliber.
 
 ### How to start up Wasteland Reborn
 

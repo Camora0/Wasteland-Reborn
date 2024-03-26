@@ -1,10 +1,10 @@
 # Wasteland Reborn
 
-For help or discussion of Wasteland Reborn please join our discord - https://discord.gg/kg3CEkfu2t
+For help or discussion of Wasteland Reborn, please join our discord - https://discord.gg/kg3CEkfu2t
 
 ## Summary
 
-A full, bottom up redesign of Fallout 4. Over 650 handpicked mods to transform Fallout 4 into the game it could have been. A whole new leveling system, new quests and locations, and hundreds of new weapons and armors to bring the design of Fallout 3 and New Vegas into the Commonwealth. 
+A full, bottom up redesign of Fallout 4. Over 650 handpicked mods to transform Fallout 4 into the game it could have been. A whole new leveling system, new quests and locations, and hundreds of new weapons and armors to bring the design of Fallout 3 and New Vegas into the Commonwealth. 
 
 ## Installation
 
@@ -22,7 +22,7 @@ Bethesda is planning a Next-Gen update soon, and who knows how often it will be 
 
 To turn off Steam automatically updating the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_.
 
-**This game does use a Stock Folder, so it should be fine in the event of an update, but it is still best practice to turn it off.**
+**This game does use a Stock Game Folder, so it should be fine in the event of an update, but it is still best practice to turn it off.**
 
 #### Cleaning Fallout 4
 
@@ -30,7 +30,7 @@ It is highly recommended to uninstall the game through Steam, delete the game fo
 
 #### Starting Fallout 4
 
-After you have done everything above and have a clean Fallout 4 game folder, start the Launcher and let it do the initial graphics check. Do not worry about this part, as the installation will replace these graphics settings, then Start Fallout 4. 
+After you have done everything above and have a clean Fallout 4 game folder, start the Launcher and let it do the initial graphics check. Do not worry about this part, as the installation will replace these graphics settings, then Start Fallout 4. 
 
 Once the Main Menu has loaded you may exit. After doing this, do not play Fallout 4 again using the Launcher, as it will revert your .ini files and could mess up your settings.
 
@@ -46,9 +46,9 @@ The download and installation of Wasteland Reborn process may take a long time, 
 
 1. Open Wabbajack.
 2. Click `browse modlists` then click the dropdown menu on top and select `Fallout 4` (don't forget to tick show `unofficial lists`), and download Wasteland Reborn from the Modlist Gallery.
-3. Set your download and installation paths. The recommended Installation Path is a blank folder at the root of a drive, such as C:\Wasteland Reborn. The Download Path will update automatically. You may also put the download folder on another drive. Such as, install the game on an SSD, but put the download folder on a HDD. Then you save space on your SSD.
+3. Set your download and installation paths. The recommended Installation Path is a blank folder at the root of a drive, such as C:\Wasteland Reborn. The download path will update automatically. You may also put the download folder on another drive, Such as installing the game on an SSD, but putting the download folder on a HDD. Then you save space on your SSD.
 5. Then click the Go/Begin button.
-6. Wait for Wabbajack to finish. It may take awhile, depending on your internet speed and if you are using and SSD or HDD.
+6. Wait for Wabbajack to finish. It may take awhile, depending on your internet speed and if you are using an SSD or HDD.
 
 #### Problems with Wabbajack
 
@@ -60,16 +60,16 @@ If you have issues with files not downloading, manually download the files and d
 
 Current files known to have issues:
 1. [ENBSeries v0.496 for Fallout 4](http://enbdev.com/mod_fallout4_v0496.htm)
-2. [Colt Single Action Army - F4NV Discord](http://discord.gg/f4nv) 
+2. [Colt Single Action Army - F4NV Discord](http://discord.gg/f4nv) 
 3. [Anti-Material Rifle - F4NV Discord](http://discord.gg/f4nv)
 
-You must join the F4NV Discord in order to download the AMR and CSAA files. Once you have joined, go to the ***F4NV News and Announcments*** tab, and click on ***released-F4NV-content***. Then scroll up until you find those two files. They are located right under the **.45 Auto Pistol (Colt M1911)** mod.
+You must join the F4NV Discord in order to download the AMR and CSAA files. Once you have joined, go to the ***F4NV News and Announcements*** tab and click on ***released-F4NV-content***. Then scroll up until you find those two files. They are located right under the **.45 Auto Pistol (Colt M1911)** mod.
 
 ## After Installation
 
 ### How to start up Wasteland Reborn
 
-Head over to the installation folder and locate the .exe file `ModOrganizer.exe` and launch it. Once it launches, there will be a dropdown box on the upper right and a big run button right next to it. Ensure it is set to [F4SE] select it in the dropdown box and then click the run button which. You have to run [F4SE]. through Mod Organizer 2 in order to play Wasteland Reborn without messing up your settings from now on.
+Head over to the installation folder, locate the .exe file `ModOrganizer.exe` and launch it. Once it launches, there will be a drop-down box on the upper right and a big run button right next to it. Ensure it is set to [F4SE] select it in the drop-down box, and then click the run button which. You have to run [F4SE]. through Mod Organizer 2 in order to play Wasteland Reborn without messing up your settings from now on.
 
 ### Updating the modlist
 

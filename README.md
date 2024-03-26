@@ -56,20 +56,21 @@ If you run into download issues with Wabbajack, it is recommended to re-running 
 
 #### Could not download...
 
-If you have issues with files not downloading, manually download the files and drop them inside of the Download folder, then re-run Wabbajack. Once Wabbajack detects the proper files it will finish the setup process.
+If you have issues with files not downloading, manually download the files and drop them inside of the Download folder, then re-run Wabbajack. Once Wabbajack detects the missing and failed to download files it will finish the setup process.
 
 Current files known to have issues:
 1. [ENBSeries v0.496 for Fallout 4](http://enbdev.com/mod_fallout4_v0496.htm)
-2. [Colt Single Action Army - F4NV Discord](http://discord.gg/f4nv) 
-3. [Anti-Material Rifle - F4NV Discord](http://discord.gg/f4nv)
+2. [Colt Single Action Army - F4NV Discord](https://drive.google.com/file/d/1WmGuPCblM-L22O38qs939FRRs9ehnLsU/view) 
+3. [Anti-Material Rifle - F4NV Discord](https://drive.google.com/file/d/1PWkbzpFos4YQLGoxjbOi7OmAeikCBgnZ/view)
 
+*DEPRECATED!!!*
 You must join the F4NV Discord in order to download the AMR and CSAA files. Once you have joined, go to the ***F4NV News and Announcements*** tab and click on ***released-F4NV-content***. Then scroll up until you find those two files. They are located right under the **.45 Auto Pistol (Colt M1911)** mod.
 
 ## After Installation
 
 ### How to start up Wasteland Reborn
 
-Head over to the installation folder, locate the .exe file `ModOrganizer.exe` and launch it. Once it launches, there will be a drop-down box on the upper right and a big run button right next to it. Ensure it is set to [F4SE] select it in the drop-down box, and then click the run button which. You have to run [F4SE]. through Mod Organizer 2 in order to play Wasteland Reborn without messing up your settings from now on.
+Head over to the installation folder, locate the .exe file `ModOrganizer.exe` and launch it. Once it launches, there will be a drop-down box on the upper right and a big run button right next to it. Ensure it is set to `F4SE` select it in the drop-down box, and then click the run button which. You have to run `F4SE` through Mod Organizer 2 in order to load the mods correctly as Mod Organizer handles some mods via VFS (Virtual File System).
 
 ### Updating the modlist
 
@@ -77,9 +78,9 @@ If Wasteland Reborn receives an update, please check the Changelog before doing 
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
-This means that if you added any of your own mods into the Modlist, they will be deleted.
+This means that if you added any of your own mods into the Modlist, they will be deleted. In the future we will provide details on how to prevent files from being deleted once the most common issues are fixes.
 
-Updating is like installing the modlist. You only have to make sure that you select the same paths and tick the _overwrite existing Modlist_ button.
+Updating is like installing the modlist. You only have to make sure that you select the same paths and tick the _overwrite existing Modlist_ button (typically Wabbajack already selects the folders but it is recommended to make sure they're correct before continuing).
 
 ## Important Mods
 
@@ -106,7 +107,6 @@ Updating is like installing the modlist. You only have to make sure that you sel
 3. [DC and West Coast Supermutants](https://www.nexusmods.com/fallout4/mods/49680)
 4. [Mojave Cazadores](https://www.nexusmods.com/fallout4/mods/57161)
 5. [Mutant Menagerie - Life Finds A Way](https://www.nexusmods.com/fallout4/mods/68187)
-
 + 100s of new armors and weapons
 
 ### Removing the Modlist
@@ -123,4 +123,4 @@ A Raven of Many Hats - Maintaining The Midnight Ride, for which this list is bas
 
 The many, many users of DegenerateDak's Discord for providing feedback, positive and negative, to facilitate the development of this list.
 
-Palurien1985 for writing this readme in such a short amount of time!
+Palurien1985 for writing the first revision of the readme in such a short amount of time, ElisPlayz for corrections and future upkeep.

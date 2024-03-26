@@ -111,4 +111,6 @@ Updating is like installing the modlist. You only have to make sure that you sel
 
 To uninstall Wasteland Reborn simply delete the MO2 folder.
 
+For help or discussion of Wasteland Reborn please join our discord - https://discord.gg/kg3CEkfu2t
+
 ## Credits and Thanks

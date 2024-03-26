@@ -105,6 +105,8 @@ Updating is like installing the modlist. You only have to make sure that you sel
 
 ## Important Mods
 
+Further annotated in-depth in the [key mod/configuration guide](https://github.com/Camora0/Wasteland-Reborn/blob/main/KEY_FEATURES.md).
+
 ### Gameplay
 
 1. [Classic Radiation Poisoning 2](https://www.nexusmods.com/fallout4/mods/48185)

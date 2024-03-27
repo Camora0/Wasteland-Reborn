@@ -6,7 +6,10 @@ For help or discussion of Wasteland Reborn, please join our discord - https://di
 
 A full, bottom up redesign of Fallout 4. Over 650 handpicked mods to transform Fallout 4 into the game it could have been. A whole new leveling system, new quests and locations, and hundreds of new weapons and armors to bring the design of Fallout 3 and New Vegas into the Commonwealth. 
 
-## Installation
+---
+
+<details>
+<summary><h2>Installation</h2></summary>
 
 ### Pre-Installation
 
@@ -30,7 +33,7 @@ It is highly recommended to uninstall the game through Steam, delete the game fo
 
 #### Starting Fallout 4
 
-After you have done everything above and have a clean Fallout 4 game folder, start the Launcher and let it do the initial graphics check. Do not worry about this part, as the installation will replace these graphics settings, then Start Fallout 4. 
+After you have done everything above and have a clean Fallout 4 game folder, start the Launcher and let it do the initial graphics check. Do not worry about this part, as the installation will replace these graphics settings, then Start Fallout 4. 
 
 Once the Main Menu has loaded you may exit. After doing this, do not play Fallout 4 again using the Launcher, as it will revert your .ini files and could mess up your settings.
 
@@ -62,12 +65,16 @@ If you have issues with files not downloading, manually download the files and d
 
 Current files known to have issues:
 1. [ENBSeries v0.496 for Fallout 4](http://enbdev.com/mod_fallout4_v0496.htm)
-2. [Colt Single Action Army - F4NV Discord](https://discord.com/invite/f4nv) 
+2. [Colt Single Action Army - F4NV Discord](https://discord.com/invite/f4nv) 
 3. [Anti-Material Rifle - F4NV Discord](https://discord.com/invite/f4nv)
 
 You must join the F4NV Discord in order to download the AMR and CSAA files. Once you have joined, go to the ***F4NV News and Announcements*** tab and click on ***released-F4NV-content***. Then scroll up until you find those two files. They are located right under the **.45 Auto Pistol (Colt M1911)** mod.
 
-## After Installation
+
+</details>
+
+<details>
+<summary><h2>After Installation</h2></summary>
 
 ### Modifying INIs
 
@@ -101,7 +108,11 @@ Next the game will ask you about LAERs. Inject these as well.
 
 Finally, you'll be given a magazine on backpacks. When the pop-up prompt appears, select the default option.
 
-### Updating the modlist
+
+</details>
+
+<details>
+<summary><h2>Updating the list</h2></summary>
 
 If Wasteland Reborn receives an update, please check the Changelog before doing anything.
 
@@ -111,7 +122,11 @@ This means that if you added any of your own mods into the Modlist, they will be
 
 Updating is like installing the modlist. You only have to make sure that you select the same paths and tick the _overwrite existing Modlist_ button (typically Wabbajack already selects the folders but it is recommended to make sure they're correct before continuing).
 
-## Important Mods
+
+</details>
+
+<details>
+<summary><h2>Important mods</h2></summary>
 
 Further annotated in-depth in the [key mod/configuration guide](https://github.com/Camora0/Wasteland-Reborn/blob/main/KEY_FEATURES.md).
 
@@ -140,13 +155,19 @@ Further annotated in-depth in the [key mod/configuration guide](https://github.c
 5. [Mutant Menagerie - Life Finds A Way](https://www.nexusmods.com/fallout4/mods/68187)
 + 100s of new armors and weapons
 
-### Removing the Modlist
+
+</details>
+
+<details>
+<summary><h2>Removing the Modlist</h2></summary>
 
 To uninstall Wasteland Reborn simply delete the install folder.
 
+</details>
+
 ## Credits and Thanks
 
-Alexerator, RetroPaladin, Micalov, DegenerateDak, CSEPteam, ShimSham, Grilledturkey, and the entire F4NV, Project Mojave, and F4CW teams for providing countless of high-quality mods this Modlist uses.
+Alexerator, RetroPaladin, Micalov, DegenerateDak, CSEPteam, ShimSham, Grilledturkey, VishVadeva, the entire F4NV, Project Mojave and F4CW teams for providing countless of high-quality mods this Modlist uses.
 
 LivelyNightmare - Writing the majority of the guides I used to build this list, as well as personally helping me.
 

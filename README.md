@@ -167,6 +167,8 @@ To uninstall Wasteland Reborn simply delete the install folder.
 
 ## Credits and Thanks
 
+You, the reader, for taking your time to read this document and for playing our modlist.
+
 Alexerator, RetroPaladin, Micalov, DegenerateDak, CSEPteam, ShimSham, Grilledturkey, VishVadeva, the entire F4NV, Project Mojave and F4CW teams for providing countless of high-quality mods this Modlist uses.
 
 LivelyNightmare - Writing the majority of the guides I used to build this list, as well as personally helping me.

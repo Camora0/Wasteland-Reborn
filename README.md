@@ -78,7 +78,7 @@ Due to the size of this modlist, the developer was suggested to add BethINI Pie 
 2. Set the INI Path to: "(Your install folder)\profiles\Wasteland Reborn";
 3. Use the Restore Backup if you want to use your backed up INIs again. 
 
-##While Bethini is open, change the following settings, if they are not already set up:
+#### While Bethini is open, change the following settings, if they are not already set up:
 + Change the resolution of the game (I use a 1440p monitor, and the inis are set as such.) , display mode (default should be set and left at Borderless Windowed);
 + Set the presets to Bethini Presets, and press the High button.
 + Apply the recommended tweaks as well. Then save your settings.

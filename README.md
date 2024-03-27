@@ -171,6 +171,8 @@ Alexerator, RetroPaladin, Micalov, DegenerateDak, CSEPteam, ShimSham, Grilledtur
 
 LivelyNightmare - Writing the majority of the guides I used to build this list, as well as personally helping me.
 
+VishVadeva - Creating the Midnight Ride, for which this list is based on.
+
 A Raven of Many Hats - Maintaining The Midnight Ride, for which this list is based on.
 
 The many, many users of DegenerateDak's Discord for providing feedback, positive and negative, to facilitate the development of this list.

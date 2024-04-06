@@ -26,8 +26,6 @@ Not Save Safe
 
 + Removed Varied Diamond City Faces and randomized Diamond City Guard Armors. Redundant now.
 
-+ Removed Puddle Fix, It actually *causes* puddle issues with the ENB enabled.
-
 + Fixed .223 from incorrectly being injected in game. (No Weapons use it).
 
 + Removed injection for the F4NV AMR, they now correctly are semi-uniques.

@@ -1,3 +1,48 @@
+Changelog for 0.6.3
+
+Save Safe
+
++ Fixed certain noteable weapons to use Rockets from Munitions, as there are now sufficiently enough to justify it.
+
++ Jakob's and Ma Li-Wan's Legendaries have been disabled. This should not effect currently existing legendaries, but prevent further ones from spawning. Reason: Bugs with weapons that use BCR cause these legendary effects to make have unlimited ammo.
+
++ Re-added Puddle Reflection Flicker Fix.
+
++ Added a dedicated PRP Conflict Resolution Patch.
+
++ The Scrap Handgun's damage values have been tweaked, they should now more properly scale as intended.
+
++ Corrected Unusable ammo from being craftable.	
+
++ Added You and What Army 2
+
++ Created a possible fix to an issue where the pipboy would make its' own light when turned off. (NEED FEEDBACK)
+
++ Fixed an issue where companions would have negative carry weight
+
++ Cait now has her lore-accurate haircolor again.
+
++ Updated You Are Exceptional
+
++ Updated RobCo Patcher
+
++ Updated Alternative Activation Prompts
+
++ Updated Grenade APW
+
++ Updated Community Fixes Merged
+
++ Updated Minutemen Enforcer Armor
+
++ Added Hazmat Suit Improved
+
++ Added Manual Reload
+
+
+
+
+
+
 Changelog for 0.6.0
 
 Not Save Safe

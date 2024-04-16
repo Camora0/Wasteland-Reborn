@@ -1,3 +1,7 @@
+# Fallout: Wasteland Reborn changelog
+## Last update was pushed at: 2024/04/09
+
+
 <details>
 <summary><h2>0.6.4</h2></summary>
 

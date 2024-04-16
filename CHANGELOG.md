@@ -1,4 +1,50 @@
 <details>
+<summary><h2>0.6.4</h2></summary>
+
+Update is: SAVE SAFE
+
+### Additions
+NONE
+
+
+### Adjustments
++ Fixed an issue with Female Characters' skin texture in certain armors
+
++ Rebalanced Mantises' Scourge Health settings to be more fair.
+
++ Fixed a conflict between F4NV's .44 Pistol and Captial Wasteland Mysterious Stranger.
+
++ Fixed an exploit where the player could get unlimited carry weight due to certain items being equipped.
+
++ Fixed 44 Magnum's INNRs
+
++ The Vault Suits around sanctuary should now properly be Vault 111 suits.
+
++ Fixed static placements of replaced weapons
+
++ Began work on the crafting overhaul. Most vanilla items that had ECO crafting recepies have now been switched to using the YAE crafting recepies. Modded weapon support still yet to come.
+
++ Assigned keywords to the scrap weapons to make them apply to Repurposed Pipes
+
++ Flagged as many compatible mods as light plugins. +100 to the ESP Limit 
+
++ Fixed Super Mutants spawning with weapons they can't use
+
++ Fixed an OMOD for Handmade Bolt Rifle
+
++ Updated Spadey's and Pizza's Stocks
+
++ Updated Garden of Eden Script Extender
+
+
+
+### Removals
+NONE
+
+</details>
+
+
+<details>
 <summary><h2>0.6.3</h2></summary>
 
 Update is: SAVE SAFE

@@ -1,6 +1,97 @@
 # Fallout: Wasteland Reborn changelog
-## Last update was pushed at: 2024/04/09
+## Last update was pushed at: 2024/04/17
 
+<details>
+<summary><h2>0.7.0b</h2></summary>
+
+Update is: NOT SAVE SAFE
+
+### Additions
++ Added Survival Configuration Menu > https://www.nexusmods.com/fallout4/mods/37599
+
++ Added Unlimited Survival Mode > https://www.nexusmods.com/fallout4/mods/26163
+
++ Added Level Cap, and Level Cap Affinity Fix > https://www.nexusmods.com/fallout4/mods/6838, https://www.nexusmods.com/fallout4/mods/78771
+
++ Added the Laser Garand, renamed to "Handmade Laser Rifle" > https://www.nexusmods.com/fallout4/mods/63429
+
++ Added No More Far Harbor Creatures for Mutant Menagerie > https://www.nexusmods.com/fallout4/mods/80452
+
++ Added Super Mutant Weaponry to completely fix the leveled list issue. Renamed included weapons for better immersion. > https://www.nexusmods.com/fallout4/mods/51665
+
++ Added Cowboy Carbine > nexusmods.com/fallout4/mods/80456
+
++ Replaced the M79 with Diacute's Thumper > https://www.nexusmods.com/fallout4/mods/80447
+
++ Added Thematic and Practical and its' addons > https://www.nexusmods.com/fallout4/mods/16207
+
++ Added CVC Dead Wasteland and its' addons. > https://www.nexusmods.com/fallout4/mods/43818
+
++ Added Neeher's Select Blaster > https://www.nexusmods.com/fallout4/mods/80521
+
++ Added No Water Jump > https://www.nexusmods.com/fallout4/mods/75100
+
++ Added Ultrawide support! > https://www.nexusmods.com/fallout4/mods/65677, https://www.nexusmods.com/fallout4/mods/56363
+
++ Added Dak's Incendary Launcher > https://www.nexusmods.com/fallout4/mods/80646
+
++ Added Knockout Framework > https://www.nexusmods.com/fallout4/mods/75988
+
++ Added Enemies Fear Power Armor > https://www.nexusmods.com/fallout4/mods/79662
+
++ Added Roleplayer's Expanded Dialogue > https://www.nexusmods.com/fallout4/mods/69389
+
++ Added America Rising 2 and its Patches > https://www.nexusmods.com/fallout4/mods/75767, https://www.nexusmods.com/fallout4/mods/80656, https://www.nexusmods.com/fallout4/mods/67757, https://www.nexusmods.com/fallout4/mods/75988
+
++ Added Transfer Settlements > https://www.nexusmods.com/fallout4/mods/22442
+
++ Added Combined Combat XP > https://www.nexusmods.com/fallout4/mods/56650
+
+### Adjustments
++ Rebuilt LODs
+
++ Set Microfusion Breeders to non-playable, so they no longer appear in inventories.
+
++ Fixed a single 5mm Rifle Round from spawning.
+
++ Fixed more clothing and armors for CBBE.
+
++ Fixed a problem with the Wattz Laser Rifle making a constant humming noise.
+
++ Continued working on the Crafting Overhaul. Now, mods that already have existing crafting recipes will require the proper perks and the crafting perks should properly display the correct crafting station.
+
++ Updated YAWA 2
+
++ Updated Backpacks of the Commonwealth
+
++ Fixed Precombines in Brothers In Arms Locations
+
++ Re-updated Garden of Eden Script Extender.
+
++ The game now has a level cap. It is set to 100. You will have to plan accordingly in order to have 100 in every skill, just like the previous games.
+
++ Adjusted how much XP is needed to level. Base XP per level is 500, up from 200, and is increased by 25 per level, down from 75.
+
++ Reduced skill point benefit from Tag skills to 15, down from 20. This feature has a known bug at the moment, so the preset saves a required to be used.
+
++ Fixed yet more problems with modded companions' carry weight.
+
++ Fixed survival mode's carry weight to be identical to the standard weight.
+
++ Tweaked the Leveled List injection to many early-game weapons
+
++ Fixed an issue with the X-02's Headlamps	
+
++ Updated Azar's Ponytails! WB Azar!
+
++ Removed Tactical Courser armor, replaced it with CROSS Courser Strigidae Armor.
+
++ Replaced Buffout 4 with Buffout 4 NG > https://www.nexusmods.com/fallout4/mods/64880
+
+### Removals
++ Removed Grease Rat Garbs. They're very well done models, but I don't personally believe they fit the intended aesthetic of the modlist.
+
+</details>
 
 <details>
 <summary><h2>0.6.4</h2></summary>

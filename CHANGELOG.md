@@ -1,5 +1,33 @@
 # Fallout: Wasteland Reborn changelog
-## Last update was pushed at: 2024/04/17
+## Last update was pushed at: 2024/04/20
+
+<details>
+<summary><h2>0.7.21b</h2></summary>
+
+Update is: Save Safe
+
+### Additions
++ Added Shadow Boost Fo4 > https://www.nexusmods.com/fallout4/mods/63482
+
++ Added Bastion - Additional Penetration > https://www.nexusmods.com/fallout4/mods/80737
+
++ Added LL integration to SPAS
+
+### Adjustments
++ Tweaked the damage of the Valve Handgun, it should now scale in a way that makes more sense.
+
++ Tweaked the damage of the Scrap Handgun, .22 should now correctly do less damage than .32
+
++ Tweaked keywords of the Varmint Revolver so it now only scales of the Handguns skill. This has the side effect of making them not work with shotgun perks. Sadge.
+
++ Fixed Varmint Revolver's INNRs.
+
+
+### Removals
++ Removed Knockout Framework. Please follow the update guide on the discord to properly convert your saves to function from 0.7.2
+
+</details>
+
 
 <details>
 <summary><h2>0.7.0b</h2></summary>

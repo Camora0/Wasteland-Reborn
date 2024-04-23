@@ -77,7 +77,7 @@ You must join the F4NV Discord in order to download the AMR and CSAA files. Once
 
 ### Modifying INIs
 
-Due to the size of this modlist, the developer was suggested to add BethINI Pie for those that are not very geeky with INIs. 
+To ensure the proper settings are enabled, you need to run Bethini. Launch it through the dropdown menu in Mod Organizer 2.. 
 
 #### Setting BethINI Pie up incase it is not set up automatically:
 1. Set the Game Path to: "(Your install folder)\Stock Game and make sure to select ***Fallout4.exe***";

@@ -13,6 +13,8 @@ A full, bottom up redesign of Fallout 4. Over 650 handpicked mods to transform F
 
 ### Pre-Installation
 
+Do note that you MUST use Steam version of Fallout 4 because we've said so. Not up for debates.
+
 These steps are only needed if you are installing Wasteland Reborn for the first time.
 
 #### Microsoft Visual C++ Redistributable Package

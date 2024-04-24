@@ -1,3 +1,61 @@
+Changelog for 0.7.3
+
+Update existing saves with caution. New Preset Saves included.
+
++ FPS has been uncapped by default.	
+
++ The 10mm Pistol's Silencer now requires Gun Nut 2.
+
++ Adjusted the Valve Handgun's Leveled Lists. New Inject scripts will not apply to existing saves.
+
++ Tweaked Melee Range to be more accurate to their animations.
+
++ Fixed a few crafting recipes to require the proper perks.
+
++ The Dufflebag outside of Sanctuary now spawns rifle-classed items much more consistently.
+
++ Adjusted the math for Damage Scaling. Weapon damage at low skill values have been increased from 30% of base damage to 50% of base damage. The bonus you can receive for maximum weapon skill has also been increased to 175%, instead of 150%. Future work will need to be done to tune damage increases of perks.
+
++ Introduced more fixes for certain weapons in PA.
+
++ Fixed the Minuteman Enforcer's Backpack to take up the same slot as the Backpacks of the Commonwealth backpacks.
+
++ Fixed an issue with sniper scopes in widescreen formats.
+
++ Fixed Curie's carry weight while she is a robot.
+
++ Tweaked Molerats breathing noise volume.
+
++ The Handmade Revolver's shotgun reciever now fires 20 gauge.
+
++ Fixed a damage bug with the Zap Rifle's Semi-automatic upgrade.
+
++ Updated Alternate Activation Prompts.
+
++ Updated Fourville.
+
++ Updated Who's the General.
+
++ Updated Ownership Fixes.
+
++ Disabled Wildergrowth for now. Looking into a compatiblity between it and Seasons Change.
+
++ Added Friendly Radstags. > https://www.nexusmods.com/fallout4/mods/76561
+
++ Added a fix for the Underground Tunnels' Doors. No more cheating, you rogue.
+
++ Added Dak's Makeshift .32 SMG. Tweaked the inject scripts from CSEP's Sten and Friends Mod so its' Borz does not get injected. New Inject scripts will not apply to existing saves. > https://www.nexusmods.com/fallout4/mods/80790/
+
++ Added Attachment Pack Description Tweaks and Fixes. > https://www.nexusmods.com/fallout4/mods/81018
+
++ Added Karma. > https://www.nexusmods.com/fallout4/mods/80425
+
++ Added Seasons Change. Re-Generated LODs. This time they're working! > https://www.nexusmods.com/fallout4/mods/76710
+
+
+
+
+
 Changelog for 0.7.21b
 
 Save Safe

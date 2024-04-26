@@ -1,3 +1,26 @@
+Changelog for 0.7.33
+
+Save Safe
+
++ Removed unneccesary Creation Club BA2s from the stock game folder. Thanks, Lively!
+
++ Fixed the compass ui widget again.
+
++ Fixed yet more weapon keywords for proper damage values. 
+
++ Updated Artillery's description to accurately depict what weapons it affects.
+
++ Fixed a cut crafting recipe from accidentally appearing.
+
++ Renamed the Reservist's Rifle unique to Reservist's Sniper Rifle, as to not have overlap.
+
++ May have fixed the National Guard Rifle's Animations. Not sure, double check for me, please?
+
+
+
+
+
+
 Changelog for 0.7.32
 
 Save Safe

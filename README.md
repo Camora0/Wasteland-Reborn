@@ -14,6 +14,7 @@ A full, bottom up redesign of Fallout 4. Over 650 handpicked mods to transform F
 ### Pre-Installation
 
 Do note that you MUST use Steam version of Fallout 4 because we've said so. Not up for debates.
+The game MUST BE downgraded to the version this list was built on. Here's the [guide](https://www.reddit.com/r/fo4/comments/1ccxyxb/pc_players_here_is_a_guide_on_how_to_rollback/).
 
 These steps are only needed if you are installing Wasteland Reborn for the first time.
 

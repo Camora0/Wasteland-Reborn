@@ -1,3 +1,32 @@
+Changelog for 0.7.32
+
+Save Safe
+
++ Fixed Keywords for certain weapons so they now apply to the correct weapon skill.
+
++ Renamed the Assault Machine Gun from Rifles Rebirth to Light Support Weapon as to not have overlap.
+
++ Framerate limit in the High FPS Bug Fix Ini has been set to 144, up from 120.
+
++ Fixed the Mauser Pistol improperly appearing in certain leveled lists.
+
++ Fixed a problem with Alternate Activation Prompts and You are Exceptional's Hotwire Advice.
+
++ Disabled Quick Trade to prevent unintended effects with certain NPCs.
+
++ Nerfed the Concrete Sledgehammer's Damage from 65 back to 35.
+
++ Updated YAWA 2 (Again! Glitchfinder coming in clutch with the updates!)
+
++ Rolled back FallUI to 1.6b.
+
++ Fixed the Compass UI.
+
+
+
+
+
+
 Changelog for 0.7.31b
 
 Save Safe

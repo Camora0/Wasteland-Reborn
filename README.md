@@ -1,8 +1,7 @@
 # Wasteland Reborn
+![alt text](https://raw.githubusercontent.com/Camora0/Wasteland-Reborn/main/WastelandRebornImage.webp)
 
 For help or discussion of Wasteland Reborn, please join our discord - https://discord.gg/kg3CEkfu2t
-
-![alt text](https://raw.githubusercontent.com/Camora0/Wasteland-Reborn/main/WastelandRebornImage.webp)
 
 ## Summary
 

@@ -2,9 +2,11 @@
 
 For help or discussion of Wasteland Reborn, please join our discord - https://discord.gg/kg3CEkfu2t
 
+![alt text](https://raw.githubusercontent.com/Camora0/Wasteland-Reborn/main/WastelandRebornImage.webp)
+
 ## Summary
 
-A full, bottom up redesign of Fallout 4. Over 650 handpicked mods to transform Fallout 4 into the game it could have been. A whole new leveling system, new quests and locations, and hundreds of new weapons and armors to bring the design of Fallout 3 and New Vegas into the Commonwealth. 
+A full, bottom up redesign of Fallout 4. Over 730 handpicked mods to transform Fallout 4 into the game it could have been. A whole new leveling system, new quests and locations, and hundreds of new weapons and armors to bring the design of Fallout 3 and New Vegas into the Commonwealth. 
 
 ---
 
@@ -13,7 +15,7 @@ A full, bottom up redesign of Fallout 4. Over 650 handpicked mods to transform F
 
 ### Pre-Installation
 
-Do note that you MUST use Steam version of Fallout 4 because we've said so. Not up for debates.
+Do note that you MUST use ***LATEST*** Steam version of Fallout 4 because we've said so. Not up for debates.
 
 These steps are only needed if you are installing Wasteland Reborn for the first time.
 
@@ -22,8 +24,6 @@ These steps are only needed if you are installing Wasteland Reborn for the first
 You most likely already have this installed. The package is required for MO2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if the other link doesn't work.
 
 #### Turn off Steam updates
-
-Bethesda is planning a Next-Gen update soon, and who knows how often it will be updated after that, since they are talking about introducing the Creation store. Whenever the game updates, the entire modding community goes silent for a short bit, because some mods need to be updated to the latest game version.
 
 To turn off Steam automatically updating the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_.
 
@@ -138,7 +138,7 @@ Further annotated in-depth in the [key mod/configuration guide](https://github.c
 2. [Immersive Animation Framework](https://www.nexusmods.com/fallout4/mods/50555)
 3. [SCOURGE - Unleveled and Standardised NPC Stats](https://www.nexusmods.com/fallout4/mods/60917)
 4. [Silent Protagonist F4SE](https://www.nexusmods.com/fallout4/mods/61732)
-5. [TRUE DAMAGE - Weapon Damage Normalized By Ammo Caliber](https://www.nexusmods.com/fallout4/mods/66071)
+5. [Dak's Weapon Rebalance (Damage Overhaul and Leveled Lists](https://www.nexusmods.com/fallout4/mods/77613)
 6. [You Are Exceptional - Skills and Perk Overhaul v1.05h](https://www.nexusmods.com/fallout4/mods/76739)
 
 ### Quests

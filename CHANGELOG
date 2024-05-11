@@ -1,3 +1,94 @@
+Changelog for 0.8.0
+
+NOT Save Safe
+
++ Ack-Ack at USAF Olivia now spawns with the Raider Minigun.
+
++ Experience rewarded from all activities has been halved.
+
++ Fixed Legendary
+
++ Damage Scaling has once again been set to 1.5x instead of 1.75x at max skill level.
+
++ Nerfed the Disciple's Blade's damage
+
++ The Deathclaw in Concord's health and damage resist values have been adjusted to be a little more difficult.
+
++ The weights for miniguns and other hip-fire exclusive heavy weapons have been vastly increased for balancing purposes. Now, using them inside of power armor is almost always a requirement.
+
++ Made more tweaks to early game leveled lists
+
++ Fixed yet more keyword problems with weapons
+
++ Removed Damage Modifier from the Vindicator Minigun
+
++ Disabled immersion breaking weapons from spawning
+
++ Fixed the death explosion sound for turrets so they no longer are deafening.
+
++ Fixed the Regions patch so it now works properly.
+
++ Fixed Far Harbor's weather so it now properly has a clear weather.
+
++ Renamed the Assault Carbine's Machine Gun unique to the Assault Rifle.
+
++ Removed SE-01 Power Armor
+
++ Removed Bastion
+
++ Removed Loaded Bases' PRP Patch to address a quest bug.
+
++ Removed South of The Sea. Big mod to remove. After testing it extensively, I don't personally think it fits with the aesthetic and design goals of this list.
+
++ Added Universal Disassembler > https://www.nexusmods.com/fallout4/mods/69262
+
++ Added Power Armor Ownership Fix > https://www.nexusmods.com/fallout4/mods/52315
+
++ Added Survivalist Bus > https://www.nexusmods.com/fallout4/mods/79920
+
++ Added Munitions Ballistics > https://www.nexusmods.com/fallout4/mods/69128
+
++ Added No Interior Fog > https://www.nexusmods.com/fallout4/mods/79999
+
++ Added Classic Advanced Power Armor > https://www.nexusmods.com/fallout4/mods/43164
+
++ Added T-47R Power Armor > https://www.nexusmods.com/fallout4/mods/71103
+
++ Added Tribal Power Armor > https://www.nexusmods.com/fallout4/mods/22437
+
++ Added Better Moons > https://www.nexusmods.com/fallout4/mods/81159
+
++ Added Ruger Rifle Pack > https://www.nexusmods.com/fallout4/mods/81882
+
++ Added Whisper's Extra pieces and Snaps > https://www.nexusmods.com/fallout4/mods/49570
+
++ Added Lore Based Power Armor Changes Redux > https://www.nexusmods.com/fallout4/mods/70262
+
++ Added Dak's Anti-Power Armor Rifle > https://www.nexusmods.com/fallout4/mods/81587
+
++ Added Customizable Rim Lighting > https://www.nexusmods.com/fallout4/mods/81087
+
++ Added an option to remove the focus sound from hovering over things ingame in Mod Organizer.
+
++ Updated Garden of Eden Script Extender
+
++ Updated Backpacks of the Commonwealth
+ 
++ Updated Power Armor to the People
+
++ Updated Inner City Ambience
+
++ Updated PRP
+
++ Updated Mutant Menagerie
+
++ Updated America Rising 2
+
+
+
+
+
+
 Changelog for 0.7.33
 
 Save Safe

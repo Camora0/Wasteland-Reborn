@@ -25,21 +25,21 @@
     "links": {
       "image": "https://i.imgur.com/drwA1H4.png",
       "readme": "https://github.com/Camora0/Wasteland-Reborn/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Wasteland Reborn.wabbajack_50fcee39-23b2-4fe3-938c-66f73099d1f5",
+      "download": "https://authored-files.wabbajack.org/Wasteland Reborn.wabbajack_25696801-e51c-4541-96f0-b64142ff2f3b",
       "machineURL": "wasteland_reborn",
       "discordURL": "https://discord.gg/HVmH8q4nfx"
     },
     "download_metadata": {
-      "Hash": "f+BvXBIzoHU=",
-      "Size": 532008682,
-      "NumberOfArchives": 842,
-      "SizeOfArchives": 102486992288,
-      "NumberOfInstalledFiles": 159962,
-      "SizeOfInstalledFiles": 158455773976
+      "Hash": "po4x0MgJn+Y=",
+      "Size": 531773616,
+      "NumberOfArchives": 847,
+      "SizeOfArchives": 102961523882,
+      "NumberOfInstalledFiles": 159985,
+      "SizeOfInstalledFiles": 158485200927
     },
-    "version": "0.8.0",
+    "version": "0.8.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-05-13T18:59:22.6284842Z",
+    "dateUpdated": "2024-05-14T22:16:17.7479786Z",
     "repositoryName": ""
   }
 ]

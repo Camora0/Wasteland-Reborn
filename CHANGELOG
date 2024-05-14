@@ -1,3 +1,48 @@
+Changelog for 0.8.1
+
++ Fixed the BB projectile so it now fires properly-- Sorry for making all your air guns fire blanks!
+
++ Adjusted the European Plasma Pistol to spawn at level 24
+
++ Renamed the Holotapes from CVC to be more immersive.
+
++ Fixed Caz's perks so he now gains benefit from YAE perks.
+
++ Merged all of BP42's ESLified patches into one mod on MO2
+
++ The Hazardous Handyman and Damascus Dedication Perks now properly have modlist-wide crafting recipes. (Note: This does not make all melee weapons craftable. Only the ones that applied to the perks were given recipes)
+
++ Fixed all derivatives of the combat rifle's animations via adding Wardaddy's Combat Rifle Reanim.
+
++ Replaced Rohnald's Double Barrel Animations with Wardaddy's custom reload.
+
++ Added Spadey's Gatling Gun > https://www.nexusmods.com/fallout4/mods/82735
+
++ Added the Assault Pistol > https://www.nexusmods.com/fallout4/mods/82562
+
++ Removed Brothers In Arms PRP Patch to fix more quest bugs.
+
++ Removed Double Barrel Shotgun Reanimation
+
++ Disabled Tungsten Slugs from spawning.
+
++ Updated You are Exceptional
+
++ Updated Concord Resurrected
+
++ Updated Backpacks of the Commonwealth
+
++ Updated Karma
+
++ Updated Alternate Activation Prompts
+
++ Updated Diamond City Ambience
+
+
+
+
+
+
 Changelog for 0.8.0
 
 NOT Save Safe

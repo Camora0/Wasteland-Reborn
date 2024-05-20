@@ -1,3 +1,60 @@
+Changelog for 0.8.2
+
+New Save recommended but not required. Prepare your existing save before downloading.
+
++ Removed Capital Wasteland Robot Pack. Please follow the uninstallation instructions here > https://www.nexusmods.com/fallout4/mods/52147. It's REQUIRED that you do this to safely continue old saves. New saves not affected.
+
++ The Sci-Fi Shenanigans Perk now has proper crafting recipes for modded weapons.
+
++ Broken limbs now take 2.5 minutes to heal on their own, up from 30 seconds.
+
++ All weapons that fire .22 and .32 now do 4x critical damage and charge the critical meter twice as fast. (Up from 2x Critical Damage)
+
++ Fixed River Rats' Health values to be more normal.
+
++ Fixed the Vault 88 Jumpsuits from improperly having their old model.
+
++ Consuming Chems no longer makes you lose Karma.
+
++ Should have properly removed the ability to loot legendary microchips. Renamed Legendary Microchips to "Exceedingly Rare Scrap" and increased its value.
+
++ The player now starts with a 9mm pistol instead of a 10mm pistol.
+
++ Fixed an issue where female characters would be visibly naked with certain outfit combinations from the IEX Institute Expeditionary Suit.
+
++ Adjusted the Overcast Weather type to a customized version that might have better interactions with light sources.
+
++ Fixed mod-added Power armor Workbenches to work with the new armor repair requirements.
+
++ Adjusted the injections for yet more weapons. This will not apply to old saves.
+
++ Changed the sound for the Submachine Gun and the .22 SMG to sound more powerful.
+
++ Added Handmade Energy Pistol > https://www.nexusmods.com/fallout4/mods/67355
+
++ Added Bumper Swords > https://www.nexusmods.com/fallout4/mods/64136
+
++ Added BASS > https://www.nexusmods.com/fallout4/mods/81859
+
++ Added Better Companions > https://www.nexusmods.com/fallout4/mods/18547
+
++ Updated Mutant Menagerie
+
++ Updated LIF
+
++ Updated Wetness Shader Fix
+
++ Updated You are Exceptional
+
++ Updated Wattz Laser Gun Update Additions
+
++ Updated Legendary Effect Overhaul
+
+
+
+
+
+
 Changelog for 0.8.1
 
 + Fixed the BB projectile so it now fires properly-- Sorry for making all your air guns fire blanks!

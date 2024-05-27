@@ -68,7 +68,7 @@ Current files known to have issues:
 1. [Colt Single Action Army - F4NV Discord](https://discord.com/invite/f4nv) 
 2. [Anti-Material Rifle - F4NV Discord](https://discord.com/invite/f4nv)
 
-You must join the F4NV Discord in order to download the AMR and CSAA files. Once you have joined, go to the ***F4NV News and Announcements*** tab and click on ***released-F4NV-content***. Then scroll up until you find those two files. They are located right under the **.45 Auto Pistol (Colt M1911)** mod.
+You must join the F4NV Discord in order to download the AMR and CSAA files. Once you have joined, go to the ***--F4NV NEWS--*** tab and click on ***released-F4NV-content***. Then scroll up until you find those two files. They are located right under the **.45 Auto Pistol (Colt M1911)** mod.
 
 
 </details>

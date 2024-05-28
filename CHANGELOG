@@ -1,3 +1,43 @@
+Changelog for 0.8.3
+
+Save Safe
+
++ Added YAE Crafting Recipes for a handful of weapons to be craftable with the Scrapyard Solutions Perk.
+
++ Added YAE Crafting Recipes for the Repurposed Pipes perk. Next up: Modern Warfare!
+
++ Fixed Captain Peterson's carry weight to properly be in line with existing companions.
+
++ Modified Enemies Fear Power Armor's MCM so it no longer runs its' script at the beginning of combat. This is to prevent possible script breakage.
+
++ Regenerated the underside terrain as to prevent clipping (Forgot to do this for removal of South of the Sea)
+
++ Regenerated America Rising 2's PRP patch as to prevent clipping in the North Boston PD.
+
++ Regenerated the Regions Patch for the new patch.
+
++ Tweaked the 1950s feminine outfits mod so the military fatigues no longer have a skirt. Thanks, ItCBitC!
+
++ Added Dogmeat Follow Behind > https://www.nexusmods.com/fallout4/mods/79543
+
++ Replaced Thrive Redone with Survival Mode Tiny Tweaks > https://www.nexusmods.com/fallout4/mods/82394
+
++ Added 4Estgimp's AI Edits > https://www.nexusmods.com/fallout4/mods/60417
+
++ Added Less Orange European Sniper Rifle to the optional section > https://www.nexusmods.com/fallout4/mods/82549
+
++ Added Dak's Vintage Repeater > https://www.nexusmods.com/fallout4/mods/82806
+
++ Added Dak's Marksman Pistol > https://www.nexusmods.com/fallout4/mods/83534
+
++ Added Dak's Navy Submachine Gun > https://www.nexusmods.com/fallout4/mods
+
+
+
+
+
+
+
 Changelog for 0.8.2
 
 New Save recommended but not required. Prepare your existing save before downloading.

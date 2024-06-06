@@ -97,15 +97,23 @@ Note: If the user does end up cleaning the folder, a redownload ***WILL*** be in
 
 ### How to start up Wasteland Reborn
 
-First, open root folder and navigate to the "Preset Save Games" folder. Copy these files inside directly into profiles/Wasteland Reborn/saves. Make a saves folder if it is not already there. Head over to the installation folder, locate the .exe file `ModOrganizer.exe` and launch it. Once it launches, there will be a drop-down box on the upper right and a big run button right next to it. Ensure it is set to `F4SE` select it in the drop-down box, and then click the run button which. You have to run `F4SE` through Mod Organizer 2 in order to load the mods correctly as Mod Organizer handles some mods via VFS (Virtual File System).
+Head over to the installation folder, locate the .exe file `ModOrganizer.exe` and launch it. Once it launches, there will be a drop-down box on the upper right and a big run button right next to it. Ensure it is set to `F4SE` select it in the drop-down box, and then click the run button which. You have to run `F4SE` through Mod Organizer 2 in order to load the mods correctly as Mod Organizer handles some mods via VFS (Virtual File System).
 
-### ***You must use the Preset Saves to get the intended experience of this list.***
+After making a new character in a new game, you will be immediately prompted to set your name and special stats. After this, select no on the pop up asking about workshop setups, as this list needs extra time to initialize its scripts.
 
-When using the preset saves, make sure to change your SPECIAL stats. This should prompt the game to reset your Tagged skills and traits the next time you open your Pip-Boy.
+Shortly after, you will be teleported to the top of the Vault 111 entrance.
 
 When you reach the surface, you will be prompted to Inject LIF forms into the Leveled lists. Select inject. 
 
 Next the game will ask you about LAERs. Inject these as well.
+
+After this, you'll want to set up your MCM settings. 
+
+### IT IS IMPERATIVE YOU SET THESE UP TO GET THE INTENDED PLAY EXPERIENCE
+
+First, in the start menu, navigate to the MCM settings menu. Then click on the dropdown titled "MCM Settings", and then "MCM Settings Manager". Press Apply on the preset. Afterwards, you'll need to exit back into the game to select yes on a pop up regarding Legendary effects. Select yes on that pop up, then go back to the MCM settings manager and apply the rest of the settings. 
+
+Once this is done, Save and load your game, and you're good to go!
 
 </details>
 

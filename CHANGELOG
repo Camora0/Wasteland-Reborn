@@ -1,3 +1,84 @@
+Changelog for 0.8.4
+
+Save safe, but follow the update instructions below.
+
+No longer needs preset saves!
+
+To update, go into an empty cell with no NPCs. To be safe, this includes companions as well. Save here, then update. After updating, go into the MCM menu and navigate to SCOURGE. In the MCM, select the global reset button to re-generate SCOURGE data for all NPCs in memory. Then, you should be good to go.
+
++ Reduced bonus damage from weapon skills to 125%, down from 150%.
+
++ Removed unused crafting benches from the settlement menu and disabled the few that were placed in the world.
+
++ Submachine Guns, Pistols, and Semi-auto/Pump Shotguns now have crafting recipes for the Modern Warfare Perkline.
+
++ Clancy the Centaur now has fixed NPC records.
+
++ Fixed the Silver Submachine Gun's model.
+
++ Recharger Weapons have had their LL injects pruned to not spawn on BOS.
+
++ Added a Thank you holotape for patreon supporters, as well as our first ever custom NPC!
+
++ The Tinkerer's RCW now properly drops the correct ammo.
+
++ Removed Crafting Recipes for Power Armor.
+
++ Can Grenades now weigh 1 pound, down from 7.
+
++ Dak's Rocket Rifle now uses rockets instead of missiles.
+
++ Fixed an issue where weapons overwritten by the master patch occasionally had incorrectly timed animations.
+
++ Reba I and Reba II now properly have the correct mod attachments.
+
++ The Vanilla Assault Rifle is now chambered for .308.
+
++ The Nailer MkII's base damage has been buffed to 25.
+
++ The Makeshift Nailgun now properly is tagged as a silenced weapon. 
+
++ Tweaked the Assault LMG to make the felt recoil harsher.
+
++ Tweaked the Keywords of many weapons to fix YAE Conflicts.
+
++ Adjusted the sounds of many weapons to create more sound variety.
+
++ Removed NPCs use Items, as it conflicts with SCOURGE.
+
++ Updated Scourge to Scourge F4SE. Replaced patches with new ones.
+
++ Updated LIF
+
++ Updated Workshop Framework
+
++ Updated Black Devil X-02 Power Armor
+
++ Added Unleveled World to the optional files. This is a rather large change, which is in consideration for fulltime inclusion. Activating this mid-save is not safe. Please use the labeled Preset Saves to test. > https://www.nexusmods.com/fallout4/mods/72784 
+
++ Added Pride Flags! > https://www.nexusmods.com/fallout4/mods/24783
+
++ Added Fast Start New Game. Preset saves begone! > https://www.nexusmods.com/fallout4/mods/29227
+
++ Added LWL and TS Integration Unofficial Update > https://www.nexusmods.com/fallout4/mods/83914
+
++ Added Early Game Armor Pack > https://www.nexusmods.com/fallout4/mods/84036
+
++ Added Commonwealth Snow Globes > https://www.nexusmods.com/fallout4/mods/80769
+
++ Added VATS Freeze Fix > https://www.nexusmods.com/fallout4/mods/27674
+
++ Added Escape Freeze F4SE > https://www.nexusmods.com/fallout4/mods/75216
+
++ Added Right Handed AK Reanim > https://www.nexusmods.com/fallout4/mods/75849
+
+
+
+
+
+
+
+
 Changelog for 0.8.3
 
 Save Safe

@@ -1,3 +1,45 @@
+Changelog for 0.8.5
+
+Save Safe
+
++ Fixed the Shipments to no longer be free. No more infinite caps for you! >:)
+
++ Added a new perk: It Ain't Broke. Adds crafting recipes for a number of revolvers, lever actions, and bolt-actions.
+
++ Finished adding crafting recipes for Rifles, LMGs, Miniguns, HMGs, and Explosive Launchers.
+
++ The Vintage Repeater now fires .45, instead of .44-40. This is representative of .45 Long Colt. Its' projectile has been changed to reflect this.
+
++ Fixed the Tag! Perk to use the correct quest stage
+
++ Moved Silent Protagonist to the optional section 
+
++ Readjusted the Gunsmith Requirements for Modern Warfare.
+
++ Fixed the Cowboy Repeater's Crafting recipe to once again require Gun Nut 1, instead of Modern Warfare. This is is justified by the crafting recipe calling for repairing the weapon, not making a new one.
+
++ Removed the VATS Freeze fix as it no longer is needed.
+
++ Added a fix to the softlock bug involving the recharger weapons.
+
++ Updated YAE
+
++ Updated YAWA 2
+
++ Updated Karma
+
++ Updated Ammo Remover
+
++ Updated Flaconoil's Textures
+
++ Added They/Them Pronouns to the optional section. > https://www.nexusmods.com/fallout4/mods/56686
+
+
+
+
+
+
+
 Changelog for 0.8.4
 
 Save safe, but follow the update instructions below.

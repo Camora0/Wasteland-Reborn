@@ -151,14 +151,12 @@ Further annotated in-depth in the [key mod/configuration guide](https://github.c
 3. [CSEP Presents Loaded Bases - Quest Mod](https://www.nexusmods.com/fallout4/mods/70031)
 4. [Fallout 4 - Point Lookout](https://www.nexusmods.com/fallout4/mods/60330)
 5. [Fourville](https://www.nexusmods.com/fallout4/mods/43979)
-6. [South of the Sea - Atoms Storm](https://www.nexusmods.com/fallout4/mods/63152)
 
 ### New things
-1. [Capital Wasteland Robot Pack](https://www.nexusmods.com/fallout4/mods/52147)
-2. [Capital Wasteland Raider Pack](https://www.nexusmods.com/fallout4/mods/50007)
-3. [DC and West Coast Supermutants](https://www.nexusmods.com/fallout4/mods/49680)
-4. [Mojave Cazadores](https://www.nexusmods.com/fallout4/mods/57161)
-5. [Mutant Menagerie - Life Finds A Way](https://www.nexusmods.com/fallout4/mods/68187)
+1. [Capital Wasteland Raider Pack](https://www.nexusmods.com/fallout4/mods/50007)
+2. [DC and West Coast Supermutants](https://www.nexusmods.com/fallout4/mods/49680)
+3. [Mojave Cazadores](https://www.nexusmods.com/fallout4/mods/57161)
+4. [Mutant Menagerie - Life Finds A Way](https://www.nexusmods.com/fallout4/mods/68187)
 + 100s of new armors and weapons
 
 
@@ -179,9 +177,9 @@ Alexerator, RetroPaladin, Micalov, DegenerateDak, CSEPteam, ShimSham, Grilledtur
 
 LivelyNightmare - Writing the majority of the guides I used to build this list, as well as personally helping me.
 
-VishVadeva - Creating the Midnight Ride, for which this list is based on.
+Ungeziefi - Creating the Midnight Ride, for which this list is based on.
 
-A Raven of Many Hats - Maintaining The Midnight Ride, for which this list is based on.
+A Raven of Many Hats - Former maintainer of Midnight Ride, who gave me permission to fork it into the list. 
 
 The many, many users of DegenerateDak's Discord for providing feedback, positive and negative, to facilitate the development of this list.
 

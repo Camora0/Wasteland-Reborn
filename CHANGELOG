@@ -1,3 +1,109 @@
+Changelog for 0.9.0
+
+Not save safe
+
++ Unleveled world is now standard!
+
++ Rebuilt the Merged Archive
+
++ Regenerated LODs
+
++ Level Cap has been reduced to 80.
+
++ Added custom legendary effects to a few of the vanilla unique weapons.
+
++ Raiders no longer can spawn with T-51, T-60, or T-65. They now can spawn with Tribal Power Armor.
+
++ All Hunting Carbine Receivers have been given a flat 50% damage boost.
+
++ Increased base value of the Super-Heated Saturnite Fist to 1250.
+
++ Fixed the Tribal Power Armor's Loading Screen.
+
++ Reduced the health and carryweight granted by endurance and strength to 8, making the stats received from one point of endurance and one point of strength be an even 10.
+
++ Tweaked many NPC combat styles to reduce accuracy.
+
++ Tweaked Mirelurk, Turret, Yao Guai and Feral Ghoul Damage Resistance in Scourge to make them less tanky.
+
++ Tweaked El Mudo Imports to no longer default to being visible on the map.
+
++ Fixed climates so that snow weather no longer occurs.
+
++ Headbands added from Bundle of Tape no longer have 50 damage resist.
+
++ Updated FOLIP
+
++ Updated YAE
+
++ Updated Karma
+
++ Updated Optimized Vanilla Tree LODs
+
++ Replaced the Glock 86 with Jkruse's Advanced Plasma Pistol > https://www.nexusmods.com/fallout4/mods/51640
+
++ Replaced Rebuild AIO Part 1/2/DLC with AIO
+
++ Removed Lamprey Floaters as they are janky and hard to fight.
+
++ Removed Lively's Keyword Resource as it has gone unused.
+
++ Removed Unused Map Markers - Cut Content Restored as it is redundant.
+
++ Added A Father's Bunker - Institute Retexture to address some texture bugs > https://www.nexusmods.com/fallout4/mods/71394
+
++ Added Suit Up to the Optional Section > https://www.nexusmods.com/fallout4/mods/57314
+
++ Added Power Armor HoloHud to the Optional Section > https://www.nexusmods.com/fallout4/mods/29969
+
++ Added Map Marker Overhaul. > https://www.nexusmods.com/fallout4/mods/78072
+
++ Added Jack's Unofficial P94 Update > https://www.nexusmods.com/fallout4/mods/54943
+
++ Added Settler Built Settlements and its' associated blueprints to the optional section. As this is not currently compatible with Transfer Settlement Blueprints, it's placed here for open testing. > https://www.nexusmods.com/fallout4/mods/84015
+
++ Added Sweet Roll 5000 > https://www.nexusmods.com/fallout4/mods/32224
+
++ Added Enhanced Night Sky > https://www.nexusmods.com/fallout4/mods/66244/
+
++ Added Realistic Stars > https://www.nexusmods.com/fallout4/mods/4914
+
++ Added Noise Remover for F4NV Recharger guns to the optional section > https://www.nexusmods.com/fallout4/mods/73927?
+
++ Replaced the Bullpup R91 with the Bullpup Scout Rifle > https://www.nexusmods.com/fallout4/mods/84354
+
++ Replaced the Wasteland Shotgun with the Scrap Shotgun > https://www.nexusmods.com/fallout4/mods/84058
+
++ Replaced the 1887 Lever Action Shotgun with the... 1887 Lever Action Shotgun > https://www.nexusmods.com/fallout4/mods/84092
+
++ Added Woody's Wasteland Stuff > https://www.nexusmods.com/fallout4/mods/24951
+
++ Added Snappable Clutter and Display > https://www.nexusmods.com/fallout4/mods/69980
+
++ Added Rsiyo's Location pack > https://www.nexusmods.com/fallout4/mods/38501
+
++ Added Inside Jobs > https://www.nexusmods.com/fallout4/mods/27320
+
++ Added Stumble Upon Interiors > https://www.nexusmods.com/fallout4/mods/15539
+
++ Added Minuteman Watchtowers Redux > https://www.nexusmods.com/fallout4/mods/67115
+
++ Added Children of Ug-Qualoth > https://www.nexusmods.com/fallout4/mods/43527
+
++ Added Shady Motives > https://www.nexusmods.com/fallout4/mods/84389
+
++ Added Subway Runner Revival > https://www.nexusmods.com/fallout4/mods/83405
+
++ Added Far Better Far Harbor > https://www.nexusmods.com/fallout4/mods/60641
+
++ Added The Experiment > https://www.nexusmods.com/fallout4/mods/79022
+
+
+
+
+
+
+
 Changelog for 0.8.5
 
 Save Safe

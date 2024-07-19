@@ -1,3 +1,63 @@
+0.9.1 Changelog
+
+Save Safe
+
++ Edited Leveled lists to coincide with changes made by Grounded Loot
+
++ Disabled the Personal Minigun that is at the Museum Of Freedom, and replaced the ammo boxes with 5mm.
+
++ Weapon skills now scale up to 100% of base damage, down from 125%.
+
++ Fixed broken previs caused by an outdated version of Far Better Far Harbor.
+
++ Added a few new custom legendary effects for vanilla unique weapons
+
++ Tweaked power armor to the people's spawnrates once more to make power armored NPCs even rarer.
+
++ Fixed the leveled list injections of certain weapons that were broken in 0.9.0. This will not apply until a new save, but is not game-breaking.
+
++ Adjusted the health and armor values of bees and rat variants to be easier to fight.
+
++ Removed X01 Light Fix as to reduce the number of ESPs.
+
++ Added Hit those Objects > https://www.nexusmods.com/fallout4/mods/85755
+
++ Added Mojave Manhunter > https://www.nexusmods.com/fallout4/mods/32214
+
++ Added Chosen of Atom > https://www.nexusmods.com/fallout4/mods/37820
+
++ Added Grounded Loot > https://www.nexusmods.com/fallout4/mods/85668
+
++ Added	Fallout Instrument Pack > https://www.nexusmods.com/fallout4/mods/46604
+
++ Added More Clothes and Textures > https://www.nexusmods.com/fallout4/mods/40315
+
++ Added SKK Fast BOS > https://www.nexusmods.com/fallout4/mods/30147
+
++ Added Marine Armor Neck Cover > https://www.nexusmods.com/fallout4/mods/19787
+
++ Added Picturesque Presets > https://www.nexusmods.com/fallout4/mods/16788
+
++ Added Wasteland Gardening > https://www.nexusmods.com/fallout4/mods/65683
+
++ Updated LIF
+
++ Updated Survivalist Bus
+
++ Updated Fallout 4 Particle Patch
+
++ Updated Realistic Reverb and Ambience Overhaul
+
++ Updated Misc Animation Fixes
+
++ Updated Better Console
+
+
+
+
+
+
+
 0.9.0.7 Changelog
 
 Save Safe

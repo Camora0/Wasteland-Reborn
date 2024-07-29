@@ -103,10 +103,6 @@ After making a new character in a new game, you will be immediately prompted to 
 
 Shortly after, you will be teleported to the top of the Vault 111 entrance.
 
-When you reach the surface, you will be prompted to Inject LIF forms into the Leveled lists. Select inject. 
-
-Next the game will ask you about LAERs. Inject these as well.
-
 After this, you'll want to set up your MCM settings. 
 
 ### IT IS IMPERATIVE YOU SET THESE UP TO GET THE INTENDED PLAY EXPERIENCE

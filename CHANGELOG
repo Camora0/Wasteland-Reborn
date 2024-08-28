@@ -1,3 +1,182 @@
+Changelog for 0.9.5
+
+Not Save Safe
+
++ Prevented the .22 Auto Revolver from being injected into Leveled lists, as I personally found it aesthetically inconsistent with the rest of the weapons.
+
++ Reworked the ENB to improve visuals and reduce unnecessary effects.
+
++ Fixed a majority of the Capital wasteland dresses so they now have underwear on female models.
+
++ Gunners' Ranks are now more clearly communicated through their uniform.
+
++ Improved the BoS Uniform Leveled Lists.
+
++ Added a custom main menu screen with five random songs!
+
++ Created a custom CBBE preset to improve the body shape (Particularly the shoulders) from the vanilla preset.
+
++ Fixed an issue where Melee weapons would spawn on Raiders/Gunners with a Ranged combat type, causing unintended movement.
+
++ Renamed the White Glove Society Attire to "High-Class Gambler Attire" so it may be usable in general leveled lists.
+
++ Reworked the Outfit system for the majority of generic clothing in the game. Now, outfits will be drawn from a leveled list of similar items from a variety of the mods included in the modlist. This is done to increase the visual variety of NPCs. This implementation is through direct outfit and leveled list edits, so any added mods that further edit the outfits would need to either be loaded after the master patch or be allowed to work somewhat improperly.
+
++ There are now two choices for ENB. One for those who prefer a more vibrant look and one for a more classic look.
+
++ Fixed a bug where some players would experience an infinite load screen during startup of a new game.
+
++ Capped the framerate at 120.
+
++ Nerfed the Gamma Carbine to 10 Energy and 40 Rad Damage, down from 25 Energy and 60 Rad Damage.
+
++ Raider Power Armor no longer has Radiation Resistance, and has half the energy and damage resistance.
+
++ Tribal Power Armor no longer has Radiation Resistance, and has reduced resistances from standard T-45.
+
++ Captain Zao now only uses Chinese weapons.
+
++ Edited Macready's outfit to be more aesthetically appealing.
+
++ Fixed a duplication glitch involving Exceedingly Rare Scrap.
+
++ The Rangemaster now is .30 Caliber by default for more weapon diversity.	
+
++ Reduced the rate in which Vanilla Assault Rifles (Machine Guns, in this case) spawn on Raiders.
+
++ Adjusted the crRangedDmgPerk applied to turrets and other enemies in an attempt to make them not as powerful.
+
++ Removed Dak's Tire and Wood Armor from Legendary LLs.
+
++ Made Radiation from the Glowing Sea and the Fog stronger.
+
++ Changed the sound of the Defense rifle to be louder and feel more powerful.
+
++ Nerfed Pig Rat melee damage to be *significantly* weaker. They are now ~50% stronger than the average mole rat of similar level.
+
++ Nerfed the DPS of the DOT used by the Small Starving Stinkbug.
+
++ Added a fix for the inability to go to Point Lookout due to Companions into the optional section, for those that are experiencing it.
+
++ ESLified many plugins to make space for user-selected mods. This will be standard practice going forward, and may cause possible bugs if adding tweaks to mods that are already in the list. Consult me if you need help.
+
++ Updated Loaded Bases
+
++ Updated Who's the General
+
++ Updated Low Profile Loader
+
++ Updated Universal Dissasembler
+
++ Updated Low Profile Loaders
+
++ Updated Vanilla Uniques Framework
+
++ Updated Who's the General
+
++ Updated CROSS Gore Fix
+
++ Updated You are Exceptional
+
++ Added No Respawn's Home Plate > https://www.nexusmods.com/fallout4/mods/50610
+
++ Added Polluted Climate for its' Dusty and Polluted weathers > https://www.nexusmods.com/fallout4/mods/33774
+
++ Added Nuka World Bottle Fix > https://www.nexusmods.com/fallout4/mods/66764
+
++ Added Resonating Light Fix > https://www.nexusmods.com/fallout4/mods/74341
+
++ Added Raider Underarmor Remesh > https://www.nexusmods.com/fallout4/mods/83804
+
++ Added Super Mutant Equality and it's associated patches > https://www.nexusmods.com/fallout4/mods/86503
+
++ Added Diverse Cats and Dogs > https://www.nexusmods.com/fallout4/mods/25599
+
++ Added Organized Militia > https://www.nexusmods.com/fallout4/mods/66905
+
++ Added Provisioner and Supply Line Management System > https://www.nexusmods.com/fallout4/mods/51245
+
++ Added Colorful Bottle Lanterns > https://www.nexusmods.com/fallout4/mods/22309
+
++ Added Nuka-World Plus > https://www.nexusmods.com/fallout4/mods/31164
+
++ Added Wasteland Debris > https://www.nexusmods.com/fallout4/mods/86554
+
++ Added Toggle Equip > https://www.nexusmods.com/fallout4/mods/83024
+
++ Added Recruit Phyllis Daily > https://www.nexusmods.com/fallout4/mods/60043
+
++ Added Recruit the Mariner > https://www.nexusmods.com/fallout4/mods/68697
+
++ Added Vanilla Clothes - More Textures Expansions > https://www.nexusmods.com/fallout4/mods/41041
+
++ Added Imposing Gunner Skulls > https://www.nexusmods.com/fallout4/mods/58237
+
++ Added Files from the Natural Bundle > https://www.nexusmods.com/fallout4/mods/51438
+
++ Added Retro Radio Replacer > https://www.nexusmods.com/fallout4/mods/48605
+
++ Added Files from Spiff's Junkyard > https://www.nexusmods.com/fallout4/mods/45002
+
++ Added Detailed Bunkers > https://www.nexusmods.com/fallout4/mods/76992
+
++ Added Point Lookout Essential Fixes > https://www.nexusmods.com/fallout4/mods/86304
+
++ Added Natural Cubemaps > https://www.nexusmods.com/fallout4/mods/86254
+
++ Added Wasteland Graffiti > https://www.nexusmods.com/fallout4/mods/74482
+
++ Added XCELL > https://www.nexusmods.com/fallout4/mods/84214
+
++ Added Diverse Wasteland - AIO > https://www.nexusmods.com/fallout4/mods/86316
+
++ Added Forest Fungus De-lit > https://www.nexusmods.com/fallout4/mods/67206
+
++ Added Glowing Sea De-lit > https://www.nexusmods.com/fallout4/mods/86144
+
++ Added Interesting Encounter Booster > https://www.nexusmods.com/fallout4/mods/86193
+
++ Added Tales of the Commonwealth, Atomic Radio, and Settlers of The Commonwealth > https://www.nexusmods.com/fallout4/mods/8704
+
++ Added Sombre Mountain > https://www.nexusmods.com/fallout4/mods/47332
+
++ Added Boon Island > https://www.nexusmods.com/fallout4/mods/84449
+
++ Added The Tunnels > https://www.nexusmods.com/fallout4/mods/67006
+
++ Added Halfway Rock Light House > https://www.nexusmods.com/fallout4/mods/53132
+
++ Added The Farmlands > https://www.nexusmods.com/fallout4/mods/61682
+
++ Added Jurttu's Interiors > https://www.nexusmods.com/fallout4/mods/81783
+
++ Added Jurrtu's Interiors - Nuka World > https://www.nexusmods.com/fallout4/mods/86012
+
++ Added The Wilderness > https://www.nexusmods.com/fallout4/mods/53128
+
++ Added the Swamplands > https://www.nexusmods.com/fallout4/mods/48628
+
++ Added the Forest > https://www.nexusmods.com/fallout4/mods/46602
+
++ Added the Sewers > https://www.nexusmods.com/fallout4/mods/45663
+
++ Added The Fungal Forest > https://www.nexusmods.com/fallout4/mods/39905
+
++ Replaced the 12.7mm pistol with Dak's > https://www.nexusmods.com/fallout4/mods/85379
+
++ Removed Abandoned Hub as it is now redundant with multiple new forms of lore-friendly fast travel
+
++ Removed Super Mutant Weaponry as it now is redundant.
+
++ Removed the Service Pistol, Frommer Stop, Charger Pistol, .44 Magnum Pistol, Bullpup Combat Shotgun, Photon Disruptor, YK42b Pulse Rifle, Institute Pulse Carbine, Navy Submachine Gun, Remington New Army - Midwana, Valve Handgun, Handmade Energy Pistol, WA2000, Disruptor pistol and .223 Revolver to address weapon bloat and cut down on the number of plugins/overlapping purpose weapons.	
+
++ Removed Chinese Stealth Suit as Point Lookout already has one.	
+
+
+
+
+
+
 0.9.2 Changelog
 
 Save Safe

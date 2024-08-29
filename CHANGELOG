@@ -1,3 +1,35 @@
+Changelog for 0.9.51
+
+Save Safe
+
++ Significantly nerfed the Desert Raiders armors so that they can be used as underarmor (as they function as underarmor).
+
++ Raider Iconoclast Armor no longer is underarmor and has had its' damage resist buffed.
+
++ Made certain quest and location mods .ESMs to take advantage of baked-in engine performance enhancements.
+
++ Fixed a terrain clipping area in Sanctuary.	
+
++ Tweaked the colors of the Polluted weather type once more.
+
++ Re-enabled Vsync, not sure how it got disabled.
+
++ Fixed a bug where you could not use stimpaks in third person.
+
++ Fixed a clipping issue with the sexy sleepwear/leopard print sleepwear where the character's underwear clips through the skirt.
+
++ Made Power Armor rarer on gunners and raiders. Originally these changes were meant for 0.9.5, but were excluded due to an oversight.
+
++ Fixed the Wait Anywhere key not being bound by the MCM.
+
++ Edited some quests and items from Nuka World Plus for better spelling and grammar.
+
+
+
+
+
+
+
 Changelog for 0.9.5
 
 Not Save Safe

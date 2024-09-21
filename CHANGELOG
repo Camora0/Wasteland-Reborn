@@ -1,3 +1,64 @@
+Changelog for 0.9.6
+
+Save Safe.
+
+
++ Reduced Yao Guai damage range by 25. They now do between 75 and 150 damage, instead of 100 and 175.
+
++ Tweaked Rat types' damage so they are more uniform across types. Enabled SCOURGE use for Pig Rats and Cave Rats.
+
++ Nerfed Mirelurk/Mirelurk Queen shell damage reduction to 33%, up from 75% damage reduction.
+
++ Humans and Ghouls now take 2.5x damage from headshots, up from 2x.
+
++ Fixed the model for one of the variants of New Vegas Farmer clothing on female characters
+
++ Fixed an issue where male NPCs could spawn with an item that lacked a model for them.
+
++ Removed the Super Mutant injection for the Assault Shotgun and Handmade Rocket Rifle, as it had the side effect of breaking the weapon for everyone else. This will cause a popup on an existing save, but it's safe.
+
++ Expanded the outfit overhaul to a few NPCs I'd missed the first time around.
+
++ Reduced the rate that Marine Armor spawns in Combat Armor Leveled lists.
+
++ Should have fixed a problem with a group of Raiders spawning in Nuka World with no AI.
+
++ Fixed the Single Action Revolver using .357 while chambered in .44.
+
++ Completing Brotherhood quests are now karma neutral, instead of positive Karma.
+
++ Extortion now causes a Karma loss, regardless of if your companion enjoys it.
+
++ Disabled ECO's customization APs to reduce clutter and prevent player-imposed jankiness. Of course, you could still re-enable them... but at least it's not my fault anymore.
+
++ Added my own personal mesh changes for a lot of the clothing items in the game.
+
++ Changed the Nuka World Western Outfits to my own edit. These will now be able to be used in the outfit overhaul.
+
++ Updated YAE
+
++ Updated Karma
+
++ Updated Low Profile Reloader.
+
++ Added Fair Accuracy and Deadly Enemies > https://www.nexusmods.com/fallout4/mods/84658
+
++ Added Power Armor Idle Stance Fix > https://www.nexusmods.com/fallout4/mods/87228
+
++ Added EXO's Patch for Tales from the Commonwealth > https://www.nexusmods.com/fallout4/mods/72111
+
++ Added Adrenaline Redone > https://www.nexusmods.com/fallout4/mods/35912
+
++ Added No Sneaking In Power Armor > https://www.nexusmods.com/fallout4/mods/75430
+
+
+
+
+
+
+
+
+
 Changelog for 0.9.51
 
 Save Safe

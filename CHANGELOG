@@ -1,3 +1,57 @@
+Changelog for 0.9.7
+
+Save Safe
+
++ Permanently fixed the issue of the Assault Shotgun having nonfunctional animations again. This time, the ESP is actually removed.
+
++ Fixed the hooded rags outfit to properly have the right model for female characters.
+
++ Armor spawns are now more balanced.
+
++ Implemented fixes for some quests from Fourville and Brothers In Arms
+
++ Fixed some scribes spawning naked.
+
++ Doubled the bump of XP requirements every level from 25 to 50
+
++ Slowed XP gain past level 50
+
++ Player damage with the starting weapons has been increased by 50% while the player is under level 3.
+
++ Sneak attack damage with guns has been reduced to 1.5x, down from 2, and with melee weapons from 3 down to 2.
+
++ Changed the Flashlight's texture and scale once again, it should now also cast shadows.
+
++ Removed YAE Alternate Activation Prompts as it's not necessary anymore.
+
++ Updated YAE
+
++ Updated Alternate Activation Prompts
+
++ Updated Dynamic Activation Key
+
++ Updated Power Armor Damage Threshold
+
++ Added EXO's Fourville Patch > https://www.nexusmods.com/fallout4/mods/61080
+
++ Added Wade In Water > https://www.nexusmods.com/fallout4/mods/87665
+
++ Added EXO's Shady Motives Patch > https://www.nexusmods.com/fallout4/mods/88148
+
++ Added Base Object Swapper > https://www.nexusmods.com/fallout4/mods/67528
+
++ Added Ketaro's World > https://www.nexusmods.com/fallout4/mods/64123
+
++ Added Ketaro's World - Unnoffical update > https://www.nexusmods.com/fallout4/mods/68272
+
++ Added Reduced Muzzle Flash > https://www.nexusmods.com/fallout4/mods/11609
+
++ Added New Bottle Caps Tin > https://www.nexusmods.com/fallout4/mods/55109
+
+
+
+
+
 Changelog for 0.9.6
 
 Save Safe.

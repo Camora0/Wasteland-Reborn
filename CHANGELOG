@@ -1,3 +1,62 @@
+Changelog for 0.9.8
+
+Save Safe
+
++ MK 19 and MK 22 Turrets will no longer be injected into leveled lists for new saves.
+
++ Uneducated Shooter has been initially disabled and moved to the Optional mods section. If you wish to use it, it is safe to activate mid-save. For new saves, it should be enabled after the initial save + reload sequence.
+
++ The Educated Perk now only requires 3 in intelligence, instead of 3 in every stat.
+
++ Idiot Savant now requires less than 3 intelligence, with rank 2 and 3 requiring 2 and 1 intelligence, respectively.
+
++ Fixed certain glasses being injected into Scribe's clothing armors making them spawn completely naked.
+
++ Disabled a few magazines during Kellogg's Memories Sequence that could unintentionally be picked with alternate activation prompts.
+
++ Fixed an issue with the Undersides of terrain being visible (yet again...)
+
++ Changed the flashlight to a slightly brighter version and decoupled the PA headlamp from the flashlight. Now the PA's flashlight will be brighter than the pipboy's.
+
++ Updated Jurttu's Interiors
+
++ Updated Jurttu's Interiors - Nuka World
+
++ Updated Who's the General 
+
++ Updated Diverse Wasteland
+
++ Updated Alternate Activation Prompts
+
++ Removed Realistic Muzzle Flash as it is overwritten by ZP's Fire and Smoke.
+
++ Added Immersive Weapon Switch > https://www.nexusmods.com/fallout4/mods/88447
+
++ Added Accurate Boston PD Protectron > https://www.nexusmods.com/fallout4/mods/72440
+
++ Added Switched Off Desk Fans > https://www.nexusmods.com/fallout4/mods/88378
+
++ Added No Industrial Smoke > https://www.nexusmods.com/fallout4/mods/15386
+
++ Added Classic Protectron Pod Overhaul > https://www.nexusmods.com/fallout4/mods/84564
+
++ Added Manholes of the Commonwealth > https://www.nexusmods.com/fallout4/mods/83501
+
++ Added ZP's Frost and Shock > https://www.nexusmods.com/fallout4/mods/88525
+
++ Added ZP's Fire and Smoke > https://www.nexusmods.com/fallout4/mods/88430
+
++ Added More Truck Trailer Doors > https://www.nexusmods.com/fallout4/mods/73877
+
++ Added Street Signs Retexture > https://www.nexusmods.com/fallout4/mods/3317
+
++ Added Elevator Direction Indicator > https://www.nexusmods.com/fallout4/mods/88294
+
+
+
+
+
+
 Changelog for 0.9.7
 
 Save Safe

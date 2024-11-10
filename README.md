@@ -49,7 +49,7 @@ Download the latest version of Wabbajack [here](https://github.com/wabbajack-too
 The download and installation of Wasteland Reborn process may take a long time, depending on your system. To speed up this process it is advised to place the working folder on an SSD.
 
 1. Open Wabbajack.
-2. Click `Browse Modlists` then click the dropdown menu on top and select `Fallout 4` (don't forget to tick `Show Unofficial Lists`), and download Wasteland Reborn from the Modlist Gallery.
+2. Click `Browse Modlists` then click the dropdown menu on top and select `Fallout 4` and download Wasteland Reborn from the Modlist Gallery.
 3. Set your download and installation paths. The recommended Installation Path is a blank folder at the root of a drive, such as C:\Wasteland Reborn. The download path will update automatically. There's an option to put the download folder on another drive, for example an HDD, while the instance stays on an SSD.
 5. Then click the Go/Begin button.
 6. Wait for Wabbajack to finish. It may take awhile, depending on your internet speed and if you are using an SSD or HDD.
@@ -129,8 +129,6 @@ Updating is like installing the modlist. You only have to make sure that you sel
 
 <details>
 <summary><h2>Important mods</h2></summary>
-
-Further annotated in-depth in the [key mod/configuration guide](https://github.com/Camora0/Wasteland-Reborn/blob/main/KEY_FEATURES.md).
 
 ### Gameplay
 

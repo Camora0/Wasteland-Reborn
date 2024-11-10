@@ -1,5 +1,5 @@
 # Wasteland Reborn
-![alt text](https://raw.githubusercontent.com/Camora0/Wasteland-Reborn/main/WastelandRebornImage.webp)
+[![Watch the video](https://github.com/Camora0/Wasteland-Reborn/blob/main/WastelandRebornImage2.webp)](https://youtu.be/0KgNWB_znx0)
 
 For help or discussion of Wasteland Reborn, please join our discord - https://discord.gg/kg3CEkfu2t
 

@@ -1,7 +1,7 @@
 [
   {
     "title": "Wasteland Reborn",
-    "description": "A full, bottom up redesign of Fallout 4. Over 730 handpicked mods to transform Fallout 4 into the game it could have been. A whole new leveling system, new quests and locations, and hundreds of new weapons and armor to bring the design of Fallout 3 and New Vegas into the Commonwealth.",
+    "description": "A full, bottom up redesign of Fallout 4. Over 800 handpicked mods to transform Fallout 4 into the game it could have been. A whole new leveling system, new quests and locations, and hundreds of new weapons and armor to bring the design of Fallout 3 and New Vegas into the Commonwealth.",
     "author": "Camora",
     "maintainers": [
       "github/Camora0"
@@ -14,7 +14,6 @@
       "Immersive",
       "Overhaul",
       "Experience",
-      "Beta",
       "Official"
     ],
     "nsfw": false,

@@ -5,7 +5,7 @@ For help or discussion of Wasteland Reborn, please join our discord - https://di
 
 ## Summary
 
-A full, bottom up redesign of Fallout 4. Over 730 handpicked mods to transform Fallout 4 into the game it could have been. A whole new leveling system, new quests and locations, and hundreds of new weapons and armors to bring the design of Fallout 3 and New Vegas into the Commonwealth. 
+A full, bottom up redesign of Fallout 4. Over 800 handpicked mods to transform Fallout 4 into the game it could have been. A whole new leveling system, new quests and locations, and hundreds of new weapons and armors to bring the design of Fallout 3 and New Vegas into the Commonwealth. 
 
 ---
 

@@ -67,7 +67,7 @@ If you have issues with files not downloading, manually download the files and d
 Current files known to have issues:
 1. [Colt Single Action Army - F4NV](https://drive.google.com/file/d/1WmGuPCblM-L22O38qs939FRRs9ehnLsU/view?usp=sharing
 ) 
-2. [Anti-Material Rifle - F4NV]([https://discord.com/invite/f4nv](https://drive.google.com/file/d/1PWkbzpFos4YQLGoxjbOi7OmAeikCBgnZ/view?usp=sharing))
+2. [Anti-Material Rifle - F4NV](https://drive.google.com/file/d/1PWkbzpFos4YQLGoxjbOi7OmAeikCBgnZ/view?usp=sharing)
 
 </details>
 
@@ -95,7 +95,7 @@ Note: If the user does end up cleaning the folder, a redownload ***WILL*** be in
 
 ### How to start up Wasteland Reborn
 
-Head over to the installation folder, locate the .exe file `ModOrganizer.exe` and launch it. Once it launches, there will be a drop-down box on the upper right and a big run button right next to it. Ensure it is set to `F4SE` select it in the drop-down box, and then click the run button which. You have to run `F4SE` through Mod Organizer 2 in order to load the mods correctly as Mod Organizer handles some mods via VFS (Virtual File System).
+Head over to the installation folder, locate the .exe file `ModOrganizer.exe` and launch it. Once it launches, there will be a drop-down box on the upper right and a big run button right next to it. Ensure it is set to `Wasteland Reborn` select it in the drop-down box, and then click the run button which. You have to run `Wasteland Reborn` through Mod Organizer 2 in order to load the mods correctly as Mod Organizer handles some mods via VFS (Virtual File System).
 
 After making a new character in a new game, you will be immediately prompted to set your name and special stats. After this, select yes on the pop up asking about workshop setups, as this list needs extra time to initialize its scripts.
 

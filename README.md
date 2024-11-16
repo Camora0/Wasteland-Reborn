@@ -1,5 +1,5 @@
 # Wasteland Reborn
-[![Watch the video](https://github.com/Camora0/Wasteland-Reborn/blob/main/WastelandRebornImage2.webp)](https://youtu.be/0KgNWB_znx0)
+[![1.0 release trailer](https://github.com/Camora0/Wasteland-Reborn/blob/main/WastelandRebornImage2.webp)](https://youtu.be/0KgNWB_znx0)
 [![Install guide](https://github.com/Camora0/Wasteland-Reborn/blob/main/WastelandRebornImage3U.png)](https://youtu.be/NccDkn4NZFU)
 
 For help or discussion of Wasteland Reborn, please join our discord - https://discord.gg/kg3CEkfu2t
@@ -38,6 +38,21 @@ It is highly recommended to uninstall the game through Steam, delete the game fo
 After you have done everything above and have a clean Fallout 4 game folder, start the Launcher and let it do the initial graphics check. Do not worry about this part, as the installation will replace these graphics settings, then Start Fallout 4. 
 
 Once the Main Menu has loaded you may exit. After doing this, do not play Fallout 4 again using the Launcher, as it will revert your .ini files and could mess up your settings.
+
+#### Assigning pagefile
+
+This step is important to those who have not modded before. This system has to do with how much RAM Windows can allocate to a process (the additional space comes from the disk the pagefile is in).
+
+Set the initial size to the size of your RAM size. For example, I have 32 GB of RAM, so I set mine to 32. My max is set to 48 GB. Use the same proportions for your own RAM configuration.
+![Here's a video on how to change it.](https://youtu.be/beHDr6OFjlw?t=22)
+
+#### Adding MS Defender exception
+
+Sometimes antiviruses like to lock files before checking them or cause some unexpected and mostly un-needed behaviour. This has been observed in our modlist.
+
+All issue that come from this can be fixed by adding files `f4se.exe` and `ModOrganizer.exe` as exceptions.
+![Here's a video on how to change it.](https://youtu.be/zGiNGnX5dYg?t=34)
+
 
 ### Wabbajack
 

@@ -1,6 +1,6 @@
 # Wasteland Reborn
 [![Watch the video](https://github.com/Camora0/Wasteland-Reborn/blob/main/WastelandRebornImage2.webp)](https://youtu.be/0KgNWB_znx0)
-[![Install guide](https://github.com/Camora0/Wasteland-Reborn/blob/main/WastelandRebornImage3.png)](https://youtu.be/NccDkn4NZFU)
+
 
 For help or discussion of Wasteland Reborn, please join our discord - https://discord.gg/kg3CEkfu2t
 

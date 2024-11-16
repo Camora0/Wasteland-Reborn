@@ -31,7 +31,7 @@ To turn off Steam automatically updating the game for you, head over to the Prop
 
 #### Cleaning Fallout 4
 
-It is highly recommended to uninstall the game through Steam, delete the game folder, and reinstall it. It is also recommended to delete the `Fallout4` folder in `Documents/My Games/`.
+It is highly recommended to uninstall the game through Steam, delete the game folder, and reinstall it. It is also recommended to delete the `Fallout4` folder in `Documents/My Games/`. Note: Before doing so, make sure that you have backed up anything important as this folder typically contains save game files and .ini files used prior to the installation.
 
 #### Starting Fallout 4
 
@@ -43,7 +43,7 @@ Once the Main Menu has loaded you may exit. After doing this, do not play Fallou
 
 #### Preparations
 
-Download the latest version of Wabbajack [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a folder. This folder **must not** be in your Desktop, Downloads, or Program Files folder. It's best to create a Wabbajack folder at the root level, like `C:/Wabbajack.`
+Download the latest version of Wabbajack [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a folder. This folder **must not** be in your Desktop, Downloads, or Program Files folder. It's best to create a Wabbajack folder at the root level, like `C:/Wabbajack`.
 
 #### Download and Installation
 
@@ -92,7 +92,7 @@ To ensure the proper settings are enabled, you need to run Bethini. Launch it th
 ### Saving on disk space ***(Highly OPTIONAL)***
 
 After a successful download deleting the ***downloads*** folder's content is safe. 
-Note: If the user does end up cleaning the folder, a redownload ***WILL*** be in order if they do end up deciding to update. As the modpack in the very first phase (open beta) expect to be bombarded with updates of any caliber.
+Note: If the user does end up cleaning the folder, a redownload ***WILL*** be in order if they do end up deciding to update.
 
 ### How to start up Wasteland Reborn
 

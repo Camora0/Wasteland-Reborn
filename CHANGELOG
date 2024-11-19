@@ -1,3 +1,37 @@
+1.0.1 Changelog
+
+Save Safe!
+
++ Removed Manhole Covers of the Commonwealth. The smoke effect is rather intrusive and distracting.
+
++ As the Player no longer spawns INSIDE Vault 111, removed the "No Boombugs in Vault 111" Mod.
+
++ Disabled the "Open Inventory" prompt for settlers and companions as to not interfere with certain interactions.
+
++ Enabled Immersive HUD by default.
+
++ Fixed a bug with hotwire devices again.
+
++ Prevented the Scrap Autocannon from being injected into new saves.
+
++ Edited most leveled lists for NPCs to make harder enemy types rarer.
+
++ Increased Damage Done and Decreased Damage taken by 15% on Normal Mode. 
+
++ Survival Mode now takes and deals 25% more damage.
+
++ Increased Damage Taken and Damage Done by 10% and 5% on Very Hard Mode. 
+
++ Reduced overall scourge damage and DR stats by 15%
+
++ Added Reputation > https://www.nexusmods.com/fallout4/mods/79394
+
++ Added CSEP Quest Mod Reputation Patches > https://www.nexusmods.com/fallout4/mods/89163
+
+
+
+
+
 <1.0 CHANGELOG!!!>
 
 NOT SAVE SAFE!!!

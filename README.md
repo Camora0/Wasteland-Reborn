@@ -44,14 +44,14 @@ Once the Main Menu has loaded you may exit. After doing this, do not play Fallou
 This step is important to those who have not modded before. This system has to do with how much RAM Windows can allocate to a process (the additional space comes from the disk the pagefile is in).
 
 Set the initial size to the size of your RAM size. For example, I have 32 GB of RAM, so I set mine to 32. My max is set to 48 GB. Use the same proportions for your own RAM configuration.
-![Here's a video on how to change it.](https://youtu.be/beHDr6OFjlw?t=22)
+[![Here's a video on how to change it.]()](https://youtu.be/beHDr6OFjlw?t=22)
 
 #### Adding MS Defender exception
 
 Sometimes antiviruses like to lock files before checking them or cause some unexpected and mostly un-needed behaviour. This has been observed in our modlist.
 
 All issue that come from this can be fixed by adding files `f4se.exe` and `ModOrganizer.exe` as exceptions.
-![Here's a video on how to change it.](https://youtu.be/zGiNGnX5dYg?t=34)
+[![Here's a video on how to change it.]()](https://youtu.be/zGiNGnX5dYg?t=34)
 
 
 ### Wabbajack

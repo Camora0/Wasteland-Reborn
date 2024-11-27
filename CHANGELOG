@@ -1,3 +1,45 @@
+1.0.2 Changelog
+
+Save Safe
+
+- Removed Direct Hit
+
+- Reverted the Scourge changes from the previous update
+
+- Decreased Scourge Health Values by 10%
+
+- Decreased the amount of damage required for the player to get credit for when a companion kills an NPC to 0
+
+- Fixed a bug where Pipe Rifles were being injected from FNV's LMG Mod
+
+- Nerfed the Desert Raiders Gas Masks and Underboss Armor's DR.
+
+- Updated UF4P
+
+- Updated CFM
+
+- Updated FOLIP
+
++ Replaced Remove Ammo From Dropped Guns with the one that actually works with this game version (My bad lol)
+
+- Updated Ownership Fixes
+
+- Regenerated Object LODs
+
+- Updated YAE
+
+- Added Whisky's Locational Damage > https://www.nexusmods.com/fallout4/mods/62687
+
+- Added Sighted Weapon Accuracy Fix > https://www.nexusmods.com/fallout4/mods/74004
+
+- Added Custom Camera > https://www.nexusmods.com/fallout4/mods/29905
+
+- Added Much Better 3rd Person Animations > https://www.nexusmods.com/fallout4/mods/57642
+
+
+
+
+
 1.0.1 Changelog
 
 Save Safe!

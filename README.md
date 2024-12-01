@@ -90,6 +90,8 @@ Current files known to have issues:
 <details>
 <summary><h2>After Installation</h2></summary>
 
+[![Here's a video following this guide]()](https://www.youtube.com/watch?v=RXI3AcbjqFE)
+
 ### Modifying INIs
 
 To ensure the proper settings are enabled, you need to run Bethini. Launch it through the dropdown menu in Mod Organizer 2.. 

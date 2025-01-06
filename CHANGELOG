@@ -1,3 +1,48 @@
+1.1.0 Changelog
+
+NOT SAVE SAFE
+
++ Redid a number of character faces to better match their personalities
+
++ Fixed A Bug with the Patrolman's Glasses
+
++ Removed Real Interiors. The effects were very hard to notice, and it caused issues with ambient noises.
+
++ Initially disabled Much Better 3rd person Animations as it appears to have a relationship with crashing.
+
++ Tweaked dozens of weathers for better colors and lighting
+
++ Tweaked the ENB for better overall visuals
+
++ Fixed a crash involving the Vintage Bayonet
+
++ Fixed an issue where Radstags would live if one of their heads were removed.
+
++ Edited many script-based injections of items to be directly edited into Leveled lists. This will make starting new games faster and allow for more precise control over the appearance of items. Not all lists have been changed, due to the workload.
+
++ Tweaked Custom Camera so that it now centers on the player outside of combat.
+
++ Capped the Level to 50
+
++ Consolidated a large portion of perks into shorter skill trees. Now, perks with ranks will have 2-3 ranks, with those ranks marginally increased in power for rank 1 and slightly decreased in power for higher ranks.
+
++ Reduced the amount of weapons that weapon vendors can sell at any one given time.
+
++ Nerfed Codsworth's and Remi's Damage output by 50%
+
++ Fixed quite a few other reported bugs.
+
++ Added Start Me Up Redux - https://www.nexusmods.com/fallout4/mods/56984
+
++ Added Smokeable Cigars - https://www.nexusmods.com/fallout4/mods/13431
+
+
+
+
+
+
+
+
 1.0.2 Changelog
 
 Save Safe

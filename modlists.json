@@ -41,16 +41,15 @@
     "dateUpdated": "2025-01-21T02:08:25.4545267Z",
     "repositoryName": ""
   },
-
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Mojave Mo' Problems",
-    "description": "Patrolling the Mojave almost makes you wish for a nuclear winter. Mojave, Mo' Problems is a hardcore exclusive list which transforms New Vegas into a survival RPG. Heat, Diseases, and an overhauled combat experience turn the Mojave into an enemy in itself.",
+    "title": "Mojave Mo\u0027 Problems",
+    "description": "Patrolling the Mojave almost makes you wish for a nuclear winter. Mojave, Mo\u0027 Problems is a hardcore exclusive list which transforms New Vegas into a survival RPG. Heat, Diseases, and an overhauled combat experience turn the Mojave into an enemy in itself.",
     "author": "Camora",
     "maintainers": [
       "github/Camora0"
     ],
     "game": "falloutnewvegas",
+    "official": false,
     "tags": [
       "Beta",
       "Survival",
@@ -59,25 +58,28 @@
       "Experience"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Camora0/MojaveMoProblems/refs/heads/main/imagetemp.png",
       "readme": "https://github.com/Camora0/MojaveMoProblems/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Mojave%20Mo'%20Problems.wabbajack_f95c7a07-b26c-41a8-8c37-84556218a7d3",
+      "download": "https://authored-files.wabbajack.org/Mojave Mo\u0027 Problems.wabbajack_9774be5d-1b1f-4281-859d-47c48bfcf352",
       "machineURL": "Mojave_Mo_Problems",
       "discordURL": "https://discord.gg/HVmH8q4nfx"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "l6pabf5/djg=",
-      "Size": 800247203,
-      "NumberOfArchives": 289,
-      "SizeOfArchives": 14753263813,
-      "NumberOfInstalledFiles": 43899,
-      "SizeOfInstalledFiles": 27855115154
+      "Hash": "IbE+C1qxDDs=",
+      "Size": 828829265,
+      "NumberOfArchives": 288,
+      "SizeOfArchives": 17852455891,
+      "NumberOfInstalledFiles": 48281,
+      "SizeOfInstalledFiles": 33986932730
     },
-    "version": "0.5"
+    "version": "0.5.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-01-22T22:14:52.9137511Z",
+    "repositoryName": ""
   }
 ]

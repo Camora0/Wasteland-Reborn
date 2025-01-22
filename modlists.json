@@ -40,5 +40,44 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-01-21T02:08:25.4545267Z",
     "repositoryName": ""
+  },
+
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Mojave Mo' Problems",
+    "description": "Patrolling the Mojave almost makes you wish for a nuclear winter. Mojave, Mo' Problems is a hardcore exclusive list which transforms New Vegas into a survival RPG. Heat, Diseases, and an overhauled combat experience turn the Mojave into an enemy in itself.",
+    "author": "Camora",
+    "maintainers": [
+      "github/Camora0"
+    ],
+    "game": "falloutnewvegas",
+    "tags": [
+      "Beta",
+      "Survival",
+      "Hardcore",
+      "Lore-Friendly",
+      "Experience"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Camora0/MojaveMoProblems/refs/heads/main/imagetemp.png",
+      "readme": "https://github.com/Camora0/MojaveMoProblems/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Mojave%20Mo'%20Problems.wabbajack_f95c7a07-b26c-41a8-8c37-84556218a7d3",
+      "machineURL": "Mojave_Mo_Problems",
+      "discordURL": "https://discord.gg/HVmH8q4nfx"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "l6pabf5/djg=",
+      "Size": 800247203,
+      "NumberOfArchives": 289,
+      "SizeOfArchives": 14753263813,
+      "NumberOfInstalledFiles": 43899,
+      "SizeOfInstalledFiles": 27855115154
+    },
+    "version": "0.5"
   }
 ]

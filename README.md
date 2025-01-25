@@ -3,11 +3,26 @@
 [![Install guide](https://github.com/Camora0/Wasteland-Reborn/blob/main/WastelandRebornImage3U.png)](https://youtu.be/NccDkn4NZFU)
 
 For help or discussion of Wasteland Reborn, please join our discord - https://discord.gg/kg3CEkfu2t
-
-## Summary
+  
+### An Introduction
 
 A full, bottom up redesign of Fallout 4. Over 800 handpicked mods to transform Fallout 4 into the game it could have been. A whole new leveling system, new quests and locations, and hundreds of new weapons and armors to bring the design of Fallout 3 and New Vegas into the Commonwealth. 
 
+#### A Note About Difficulty
+
+While Wasteland Reborn is built to retain the general aesthetic and gameplay feel of vanilla Fallout 4, many general overhauls have been added; most importantly those that touch on difficulty.
+
+This modlist contains mods such as Unleveled World, SCOURGE, FADE, C.E.C.S., Whisky's Locational Damage etc etc. As such, we implore you, as a new player, to read through what the mods mentioned do, read up on the perks and skills available in You are Exceptional, and most importantly, don't get discouraged. difficulty is highly adjustable but finely tuned for a more involved experience out of the box.
+
+#### Hardware Requirements
+
+an SSD is ***ABSOLUTELY REQUIRED***. Hard Disk Drives (HDDs) are, unfortunately, too slow for stable performance (and can cause install or other general issues) due to the nature of the HDD itself. 
+
+**For ~90-120FPS @ 1080P**
+1. CPU: AMD Ryzen 7 5700x3D / Intel Equivalent
+2. GPU: AMD Radeon 6700XT / Nvidia RTX 3070
+3. RAM: 32gb (2x16 DC) @ 3600mhz
+4. SSD: WD Black SN770 1Tb Gen4 NVME
 ---
 
 <details>
@@ -29,9 +44,11 @@ To turn off Steam automatically updating the game for you, head over to the Prop
 
 **This game does use a Stock Game Folder, so it should be fine in the event of an update, but it is still best practice to turn it off.**
 
+*It is also highly recommended to turn off Steam Overlay.*
+
 #### Cleaning Fallout 4
 
-It is highly recommended to uninstall the game through Steam, delete the game folder, and reinstall it. It is also recommended to delete the `Fallout4` folder in `Documents/My Games/`. Note: Before doing so, make sure that you have backed up anything important as this folder typically contains save game files and .ini files used prior to the installation.
+It is highly recommended to uninstall the game through Steam, delete the game folder, and reinstall it. It is also recommended to delete the `Fallout4` folder in `Documents/My Games/`. Please also delete anything located in `%LocalAppData%/Fallout 4`. Note: Before doing so, make sure that you have backed up anything important as the Documents folder typically contains save game files and .ini files used prior to the installation.
 
 #### Starting Fallout 4
 
@@ -111,13 +128,15 @@ To ensure the proper settings are enabled, you need to run Bethini. Launch it th
 After a successful download deleting the ***downloads*** folder's content is safe. 
 Note: If the user does end up cleaning the folder, a redownload ***WILL*** be in order if they do end up deciding to update.
 
+***Optional mods and Uneducated Shooter***
+
+While the other Optional Mods are fine to adjust before initial in game character creation, Uneducated Shooter causes issues with the player height and hotboxes and causes issues. keep this disabled until you've completed the MCM settings step of the post install process.
+
 ### How to start up Wasteland Reborn
 
 Head over to the installation folder, locate the .exe file `ModOrganizer.exe` and launch it. Once it launches, there will be a drop-down box on the upper right and a big run button right next to it. Ensure it is set to `Wasteland Reborn` select it in the drop-down box, and then click the run button which. You have to run `Wasteland Reborn` through Mod Organizer 2 in order to load the mods correctly as Mod Organizer handles some mods via VFS (Virtual File System).
 
-After making a new character in a new game, you will be immediately prompted to set your name and special stats. After this, select yes on the pop up asking about workshop setups, as this list needs extra time to initialize its scripts.
-
-Shortly after, you will be teleported to the top of the Vault 111 entrance.
+After making a new character in a new game, you will be prompted with Start Me Up Redux' Scenario Creator (save for Traits and Level Selection). this will allow you to fully customize how you start your experience, whether you'd rather a hunter simply surviving on the outskirts of the Commonwealth, a mad scientist hell-bent on unleashing energized death on your enemies, or even the vanilla start! (if you despise yourself...)
 
 After this, you'll want to set up your MCM settings. 
 
@@ -136,7 +155,7 @@ If Wasteland Reborn receives an update, please check the Changelog before doing 
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
-This means that if you added any of your own mods into the Modlist, they will be deleted. In the future we will provide details on how to prevent files from being deleted once the most common issues are fixes.
+This means that if you added any of your own mods into the Modlist, they will be deleted. To prevent this, you can add [NoDelete] to the beginning of the name of the mod you added. We cannot and will not guarantee support or compatibility for mods added on top of the list (Rule 11!)
 
 Updating is like installing the modlist. You only have to make sure that you select the same paths and tick the _overwrite existing Modlist_ button (typically Wabbajack already selects the folders but it is recommended to make sure they're correct before continuing).
 

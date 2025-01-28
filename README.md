@@ -16,13 +16,12 @@ This modlist contains mods such as Unleveled World, SCOURGE, FADE, C.E.C.S., Whi
 
 #### Hardware Requirements
 
-an SSD is ***ABSOLUTELY REQUIRED***. Hard Disk Drives (HDDs) are, unfortunately, too slow for stable performance (and can cause install or other general issues) due to the nature of the HDD itself. 
+An SSD is ***ABSOLUTELY REQUIRED***. Hard Disk Drives (HDDs) are, unfortunately, too slow for stable performance (and can cause install or other general issues) due to the nature of the HDD itself. 
 
 **For ~90-120FPS @ 1080P**
 1. CPU: AMD Ryzen 7 5700x3D / Intel Equivalent
 2. GPU: AMD Radeon 6700XT / Nvidia RTX 3070
-3. RAM: 32gb (2x16 DC) @ 3600mhz
-4. SSD: WD Black SN770 1Tb Gen4 NVME
+3. RAM: 32gb on Windows based systems/ 16gb on Linux distros
 ---
 
 <details>

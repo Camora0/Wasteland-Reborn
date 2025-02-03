@@ -110,7 +110,7 @@ Current files known to have issues:
 
 ### Modifying INIs
 
-To ensure the proper settings are enabled, you need to run Bethini. Launch it through the dropdown menu in Mod Organizer 2.. 
+To ensure the proper settings are enabled, you need to run Bethini. 
 
 #### Setting BethINI Pie up incase it is not set up automatically:
 1. Set the Game Path to: "(Your install folder)\Stock Game and make sure to select ***Fallout4.exe***";

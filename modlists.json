@@ -65,21 +65,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Camora0/MojaveMoProblems/refs/heads/main/logobackgroundfinal.png",
       "readme": "https://github.com/Camora0/MojaveMoProblems/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Mojave Mo\u0027 Problems.wabbajack_739bd931-46fd-41ea-a53c-dc18a845771b",
+      "download": "https://authored-files.wabbajack.org/Mojave Mo\u0027 Problems.wabbajack_8539a8ea-9d39-4f01-bae5-69ee36bbd378",
       "machineURL": "Mojave_Mo_Problems",
       "discordURL": "https://discord.gg/HVmH8q4nfx"
     },
     "download_metadata": {
-      "Hash": "o1ywydNh7XM=",
-      "Size": 828253573,
-      "NumberOfArchives": 420,
-      "SizeOfArchives": 24337174104,
-      "NumberOfInstalledFiles": 58508,
-      "SizeOfInstalledFiles": 45628138005
+      "Hash": "Hf51vGgEFac=",
+      "Size": 829942301,
+      "NumberOfArchives": 457,
+      "SizeOfArchives": 31120018452,
+      "NumberOfInstalledFiles": 70330,
+      "SizeOfInstalledFiles": 57275858566
     },
-    "version": "0.8",
+    "version": "1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-30T05:45:26.8142122Z",
+    "dateUpdated": "2025-03-15T02:10:49.9422292Z",
     "repositoryName": ""
   }
 ]

@@ -92,20 +92,6 @@ While this is happening, the developer team suggests to download the mods that *
 
 If you run into download issues with Wabbajack, it is recommended to re-running Wabbajack before posting anything. Wabbajack will continue where it left off, so you will not have to start over.
 
-#### Could not download...
-
-If you have issues with files not downloading, manually download the files and drop them inside of the Download folder, then re-run Wabbajack. Once Wabbajack detects the missing and failed to download files it will finish the setup process.
-
-Current files known to have issues:
-1. [Colt Single Action Army - F4NV](https://drive.google.com/file/d/1WmGuPCblM-L22O38qs939FRRs9ehnLsU/view?usp=sharing
-) 
-2. [Anti-Material Rifle - F4NV](https://drive.google.com/file/d/1PWkbzpFos4YQLGoxjbOi7OmAeikCBgnZ/view?usp=sharing)
-
-</details>
-
-<details>
-<summary><h2>After Installation</h2></summary>
-
 [![Here's a video following this guide]()](https://www.youtube.com/watch?v=RXI3AcbjqFE)
 
 ### Modifying INIs

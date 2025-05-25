@@ -24,21 +24,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Camora0/Wasteland-Reborn/refs/heads/main/79923-1711389646-1753700373.png",
       "readme": "https://github.com/Camora0/Wasteland-Reborn/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Wasteland Reborn.wabbajack_f13959a2-a430-423e-8aa2-8159438de8ad",
+      "download": "https://authored-files.wabbajack.org/Wasteland Reborn.wabbajack_73e0edb6-3398-482e-8ac8-fbb0ef4c0dee",
       "machineURL": "wasteland_reborn",
-      "discordURL": "https://discord.gg/HVmH8q4nfx"
+      "discordURL": "https://discord.gg/HVmH8q4nfx",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "mpduM53ZcEA=",
-      "Size": 453632318,
-      "NumberOfArchives": 992,
-      "SizeOfArchives": 119982488843,
-      "NumberOfInstalledFiles": 140237,
-      "SizeOfInstalledFiles": 188146720322
+      "Hash": "t/cgB6J9FbQ=",
+      "Size": 456328276,
+      "NumberOfArchives": 999,
+      "SizeOfArchives": 121898187017,
+      "NumberOfInstalledFiles": 138612,
+      "SizeOfInstalledFiles": 187494174036,
+      "TotalSize": 309392361053
     },
-    "version": "2.1.2",
+    "version": "2.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-04-13T02:26:07.6511572Z",
+    "dateUpdated": "2025-05-25T19:24:49.3463803Z",
     "repositoryName": ""
   },
   {
@@ -67,7 +69,8 @@
       "readme": "https://github.com/Camora0/MojaveMoProblems/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Mojave Mo\u0027 Problems.wabbajack_8539a8ea-9d39-4f01-bae5-69ee36bbd378",
       "machineURL": "Mojave_Mo_Problems",
-      "discordURL": "https://discord.gg/HVmH8q4nfx"
+      "discordURL": "https://discord.gg/HVmH8q4nfx",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "Hf51vGgEFac=",
@@ -75,7 +78,8 @@
       "NumberOfArchives": 457,
       "SizeOfArchives": 31120018452,
       "NumberOfInstalledFiles": 70330,
-      "SizeOfInstalledFiles": 57275858566
+      "SizeOfInstalledFiles": 57275858566,
+      "TotalSize": 88395877018
     },
     "version": "1.0",
     "dateCreated": "1970-01-01T00:00:00Z",

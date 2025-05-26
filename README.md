@@ -82,11 +82,9 @@ The download and installation of Wasteland Reborn process may take a long time, 
 
 1. Open Wabbajack.
 2. Click `Browse Modlists` then click the dropdown menu on top and select `Fallout 4` and download Wasteland Reborn from the Modlist Gallery.
-3. Set your download and installation paths. The recommended Installation Path is a blank folder at the root of a drive, such as C:\Wasteland Reborn. The download path will update automatically. There's an option to put the download folder on another drive, for example an HDD, while the instance stays on an SSD.
+3. Set your download and installation paths. The recommended Installation Path is a blank folder at the root of a drive, such as C:\Wasteland Reborn. The download path will update automatically. There's an option to put the download folder on another drive, for example an HDD,  the instance stays on an SSD.
 5. Then click the Go/Begin button.
-6. Wait for Wabbajack to finish. It may take awhile, depending on your internet speed and if you are using an SSD or HDD.
-
-While this is happening, the developer team suggests to download the mods that ***WILL*** cause issues later down the line if one does not download them before the end of the download phase *(these are linked below)*.
+6. Wait for Wabbajack to finish. It may take a, depending on your internet speed and if you are using an SSD or HDD.
 
 #### Problems with Wabbajack
 

@@ -51,9 +51,9 @@
       "github/Camora0"
     ],
     "game": "falloutnewvegas",
-    "official": false,
+    "official": true,
     "tags": [
-      "Beta",
+      "Official",
       "Survival",
       "Hardcore",
       "Lore-Friendly",

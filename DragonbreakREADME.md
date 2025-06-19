@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Dragonbreak** is a modlist that fundamentally re-envisions Skyrim with old-school styled RPG Mechanics. In active development!**
+**Dragonbreak** is a modlist that fundamentally re-envisions Skyrim with old-school styled RPG Mechanics. In active development!
 
 ---
 

@@ -85,5 +85,44 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-03-15T02:10:49.9422292Z",
     "repositoryName": ""
-  }
+  },
+  {
+    "title": "Dragonbreak",
+    "description": "Dragonbreak is a modlist that fundamentally re-envisions Skyrim with old-school styled RPG Mechanics. In active development!",
+    "author": "Camora",
+    "maintainers": [
+      "github/Camora0"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "RPG-Like",
+      "Beta",
+      "Lore-Friendly",
+      "Experience"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Camora0/Wasteland-Reborn/refs/heads/main/Dragonbreaklogofull.png",
+      "readme": "https://github.com/Camora0/Wasteland-Reborn/blob/main/DragonbreakREADME.md",
+      "download": "https://authored-files.wabbajack.org/Dragonbreak.wabbajack_3ae6fbdc-ea08-43fe-83bf-46c80b38de40",
+      "machineURL": "Dragonbreak",
+      "discordURL": "https://discord.gg/HVmH8q4nfx",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "7Bd+11o4e98=",
+      "Size": 287403623,
+      "NumberOfArchives": 1595,
+      "SizeOfArchives": 143464946329,
+      "NumberOfInstalledFiles": 153147,
+      "SizeOfInstalledFiles": 179995542156,
+      "TotalSize": 323460488485
+    },
+    "version": "0.3"
+  },
 ]

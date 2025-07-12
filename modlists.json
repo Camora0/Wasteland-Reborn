@@ -109,23 +109,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Camora0/Wasteland-Reborn/refs/heads/main/Dragonbreaklogofull.png",
       "readme": "https://github.com/Camora0/Wasteland-Reborn/blob/main/DragonbreakREADME.md",
-      "download": "https://authored-files.wabbajack.org/Dragonbreak.wabbajack_210a4510-0d14-4e5d-b171-7996aa2f4bd4",
+      "download": "https://authored-files.wabbajack.org/Dragonbreak.wabbajack_7f344f7a-9296-49f6-9aa8-c7839e502919",
       "machineURL": "Dragonbreak",
       "discordURL": "https://discord.gg/HVmH8q4nfx",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "KEICroTySuY=",
-      "Size": 612294155,
-      "NumberOfArchives": 1919,
-      "SizeOfArchives": 173275119478,
-      "NumberOfInstalledFiles": 200514,
-      "SizeOfInstalledFiles": 211348937268,
-      "TotalSize": 384624056746
+      "Hash": "SRqNIJt2Gf8=",
+      "Size": 612905088,
+      "NumberOfArchives": 1924,
+      "SizeOfArchives": 181899763642,
+      "NumberOfInstalledFiles": 200547,
+      "SizeOfInstalledFiles": 215931526722,
+      "TotalSize": 397831290364
     },
-    "version": "0.4",
+    "version": "0.41",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-07-05T04:05:16.1296611Z",
+    "dateUpdated": "2025-07-12T23:03:55.3407946Z",
     "repositoryName": ""
   }
 ]

@@ -135,8 +135,6 @@ If LoreOut receives an update, please check the Changelog before doing anything.
 
 This means that if you added any of your own mods into the Modlist, they will be deleted. To prevent this, you can add [NoDelete] to the beginning of the name of the mod you added. We cannot and will not guarantee support or compatibility for mods added on top of the list (Rule 11!)
 
-Updating is like installing the modlist. You only have to make sure that you select the same paths and tick the _overwrite existing Modlist_ button (typically Wabbajack already selects the folders but it is recommended to make sure they're correct before continuing).
-
 
 </details>
 

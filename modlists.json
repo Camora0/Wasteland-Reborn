@@ -136,7 +136,7 @@
       "github/Camora0"
     ],
     "game": "fallout4",
-    "official": true,
+    "official": false,
     "tags": [
       "NeverNude",
       "Lore-Friendly",
@@ -173,6 +173,7 @@
   }
 
 ]
+
 
 
 

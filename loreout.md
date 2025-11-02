@@ -12,9 +12,7 @@ LoreOut is a modernized full redesign of Fallout 4, with over 800 mods to build 
 
 #### A Note About Difficulty
 
-While Loreout is built to retain the general aesthetic and gameplay feel of vanilla Fallout 4, many general overhauls have been added; most importantly those that touch on difficulty.
-
-This modlist contains mods such as Unleveled World, FADE, C.E.C.S., Whisky's Locational Damage etc etc. As such, we implore you, as a new player, to read through what the mods mentioned do, read up on the perks and skills available in You are Exceptional, and most importantly, don't get discouraged. difficulty is highly adjustable but finely tuned for a more involved experience out of the box.
+While LoreOut is built to retain the general aesthetic and gameplay feel of vanilla Fallout 4, many general overhauls have been added; most importantly those that touch on difficulty. As such, we implore you, as a new player, to read through what the mods mentioned do, read up on the perks and skills available in You are Exceptional, and most importantly, don't get discouraged. difficulty is highly adjustable but finely tuned for a more involved experience out of the box.
 
 #### Hardware Requirements
 
@@ -31,9 +29,9 @@ An SSD is ***ABSOLUTELY REQUIRED***. Hard Disk Drives (HDDs) are, unfortunately,
 
 ### Pre-Installation
 
-Do note that you MUST use ***FULL (ALL DLC, except high-res textures) LATEST*** Steam version of Fallout 4 because we've said so. Not up for debates. In case you've got the AE (the latest DLC or whatever they call it), **DO NOT** manually downgrade. WB will do it for you.
+Do note that you MUST use ***FULL (ALL DLC, except high-res textures) LATEST*** Steam version of Fallout 4 because we've said so. Not up for debates. In case you've got the AE (the latest DLC or whatever they call it), **DO NOT** manually downgrade. LoreOut will do it for you.
 
-These steps are only needed if you are installing Wasteland Reborn for the first time.
+These steps are only needed if you are installing LoreOut for the first time.
 
 #### Microsoft Visual C++ Redistributable Package
 

@@ -163,7 +163,7 @@
       "NumberOfArchives": 990,
       "SizeOfArchives": 130049868773,
       "NumberOfInstalledFiles": 101519,
-      "SizeOfInstalledFiles": 156185550935,
+      "SizeOfInstalledFiles": 156185550935
 
     },
     "version": "0.1.0",
@@ -173,6 +173,7 @@
   }
 
 ]
+
 
 
 

@@ -80,9 +80,8 @@ Download the latest version of Wabbajack [here](https://github.com/wabbajack-too
 
 The total instance installation time depends entirely on your internet and CPU-Storage speeds To speed up this process it is advised to place the instance (installation) folder on an SSD.
 
-1. Download the .wabbajack file from [here](https://drive.google.com/file/d/1Kr6jekSssBKhY3FVfZL6ePxbj7Mfb2CR/view?usp=sharing).
 2. Open Wabbajack.
-3. Click `Get Started` then click the button called `Install from disk` and select the .wabbajack file you downloaded.
+3. Click `Get Started` then make sure that `Non-featured` option is selected on the left of the UI, below the search bar. Find `LoreOut Alpha` and click on it.
 4. Set your download and installation paths. The recommended Installation Path is a blank folder at the root of a drive (preferably not the C drive), such as D:\LoreOut. The download path will update automatically. There's an option to put the download folder on another drive, for example an HDD, but the instance **must** on an SSD.
 5. Then click the Install button.
 6. Wait for Wabbajack to finish. It may take a while depending on your internet speed and if you are using an SSD or HDD.
@@ -176,7 +175,7 @@ Just remove the install folder. Simple as.
 
 You, the reader, for taking your time to read this document and for playing our modlist.
 
-Biggie for the amazing colab and decision making to curate the best possible Fallout 4 modlist.
+Biggie_Boss for the amazing colab and decision making to curate the best possible Fallout 4 modlist.
 
 Alexerator, RetroPaladin, Micalov, DegenerateDak, CSEPteam, ShimSham, Grilledturkey, VishVadeva, the entire F4NV, Project Mojave and F4CW teams for providing countless of high-quality mods this Modlist uses.
 

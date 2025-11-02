@@ -151,7 +151,7 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Camora0/Wasteland-Reborn/refs/heads/main/LoreOutLogo2.png",
-      "readme": "https://github.com/Camora0/Wasteland-Reborn/blob/main/LoreOut.md",
+      "readme": "https://github.com/Camora0/Wasteland-Reborn/blob/main/loreout.md",
       "download": "https://authored-files.wabbajack.org/LoreOut%20Alpha.wabbajack_b0cde142-3351-4308-808d-cad4de5eb388",
       "machineURL": "LoreOut",
       "discordURL": "https://discord.gg/bungalo",
@@ -173,5 +173,6 @@
   }
 
 ]
+
 
 

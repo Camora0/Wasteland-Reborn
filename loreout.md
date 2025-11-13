@@ -49,9 +49,9 @@ To turn off Steam automatically updating the game for you, head over to the Prop
 
 It is highly recommended to uninstall the game through Steam, delete the game folder, and reinstall it. It is also recommended to delete the `Fallout4` folder in `Documents/My Games/`. Please also delete anything located in `%LocalAppData%/Fallout 4`. Note: Before doing so, make sure that you have backed up anything important as the Documents folder typically contains save game files and .ini files used prior to the installation.
 
-#### Starting Fallout 4
+#### ing Fallout 4
 
-After you have done everything above and have a clean Fallout 4 game folder, start the Launcher and let it do the initial graphics check. Do not worry about this part, as the installation will replace these graphics settings, then Start Fallout 4. 
+After you have done everything above and have a clean Fallout 4 game folder,  the Launcher and let it do the initial graphics check. Do not worry about this part, as the installation will replace these graphics settings, then  Fallout 4. 
 
 Once the Main Menu has loaded you may exit. After doing this, do not play Fallout 4 again using the Launcher, as it will revert your .ini files and could mess up your settings.
 
@@ -81,14 +81,14 @@ Download the latest version of Wabbajack [here](https://github.com/wabbajack-too
 The total instance installation time depends entirely on your internet and CPU-Storage speeds To speed up this process it is advised to place the instance (installation) folder on an SSD.
 
 2. Open Wabbajack.
-3. Click `Get Started` then make sure that `Non-featured` option is selected on the left of the UI, below the search bar. Find `LoreOut Alpha` and click on it.
+3. Click `Get ed` then make sure that `Non-featured` option is selected on the left of the UI, below the search bar. Find `LoreOut Alpha` and click on it.
 4. Set your download and installation paths. The recommended Installation Path is a blank folder at the root of a drive (preferably not the C drive), such as D:\LoreOut. The download path will update automatically. There's an option to put the download folder on another drive, for example an HDD, but the instance **must** on an SSD.
 5. Then click the Install button.
 6. Wait for Wabbajack to finish. It may take a while depending on your internet speed and if you are using an SSD or HDD.
 
 #### Problems with Wabbajack
 
-If you run into download issues with Wabbajack, it is recommended to re-running Wabbajack before posting anything. Wabbajack will continue where it left off, so you will not have to start over.
+If you run into download issues with Wabbajack, it is recommended to re-running Wabbajack before posting anything. Wabbajack will continue where it left off, so you will not have to  over.
 
 ### Modifying INIs
 
@@ -109,11 +109,9 @@ To ensure the proper settings are enabled, you need to run Bethini.
 After a successful download deleting the ***downloads*** folders content is safe. 
 Note: If the user does end up cleaning the folder, any form of updating or redownloading ***WILL*** result in the mod archieves being redownloaded.
 
-### How to start up LoreOut
+### How to  up LoreOut
 
 Head over to the installation folder, locate the .exe file `ModOrganizer.exe` and launch it. Once it launches, there will be a drop-down box on the upper right and a big run button right next to it. Ensure that it is set to `LoreOut`, if not select it in the drop-down box, and then click the run button. You have to run the modlist through Mod Organizer 2 in order to load the mods correctly as Mod Organizer handles most mods via VFS (Virtual File System).
-
-After making a new character in a new game, you will be prompted with Start Me Up Redux' Scenario Creator (save for Traits and Level Selection). this will allow you to fully customize how you start your experience, whether you'd rather a hunter simply surviving on the outskirts of the Commonwealth, a mad scientist hell-bent on unleashing energized death on your enemies, or even the vanilla start! (if you despise yourself...)
 
 After this, you'll want to set up your MCM settings. 
 

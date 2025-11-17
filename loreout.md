@@ -93,17 +93,7 @@ If you run into download issues with Wabbajack, it is recommended to re-running 
 
 ### Modifying INIs
 
-To ensure the proper settings are enabled, you need to run Bethini. 
-
-#### Setting BethINI Pie up incase it is not set up automatically:
-1. Set the Game Path to: "(Your install folder)\Stock Game and make sure to select ***Fallout4.exe***";
-2. Set the INI Path to: "(Your install folder)\profiles\LoreOut";
-3. Use the Restore Backup if you want to use your backed up INIs again. 
-
-#### While Bethini is open, change the following settings, if they are not already set up:
-+ Change the resolution of the game (I use a 1440p monitor, and the inis are set as such.) , display mode (default should be set and left at Borderless Windowed);
-+ Set the presets to Bethini Presets, and press the High button.
-+ Apply the recommended tweaks as well. Then save your settings.
+In Mod Organizer, press the puzzle piece dropdown in the top left and select 'INI editor'. While you should have the correct settings shipped with the download, you can modify settings like resolution and fullscreen in Fallout4prefs.ini located here to suit your machine.
 
 ### Saving on disk space ***(Highly OPTIONAL)***
 

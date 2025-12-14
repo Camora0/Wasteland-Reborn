@@ -127,52 +127,10 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-07-12T23:03:55.3407946Z",
     "repositoryName": ""
-  },
-  {
-    "title": "LoreOut Alpha",
-    "description": "LoreOut is a modernized full redesign of Fallout 4, with over 800 mods to build the a highly refined and perfected experience of the game.",
-    "author": "Biggie_Boss and Camora",
-    "maintainers": [
-      "github/Camora0"
-    ],
-    "game": "fallout4",
-    "official": false,
-    "tags": [
-      "NeverNude",
-      "Lore-Friendly",
-      "Immersive",
-      "Full Overhaul",
-      "Experience"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Camora0/Wasteland-Reborn/refs/heads/main/LoreOutLogo2.png",
-      "readme": "https://github.com/Camora0/Wasteland-Reborn/blob/main/loreout.md",
-      "download": "https://authored-files.wabbajack.org/LoreOut Alpha.wabbajack_d78b9ac6-1f36-4927-8afe-51f3dddca6ad",
-      "machineURL": "LoreOut",
-      "discordURL": "https://discord.gg/bungalo",
-      "websiteURL": ""
-    },
-    "download_metadata": {
-      "Hash": "tkG0gVNGF2k=",
-      "Size": 610646551,
-      "NumberOfArchives": 997,
-      "SizeOfArchives": 122579163705,
-      "NumberOfInstalledFiles": 191668,
-      "SizeOfInstalledFiles": 170005024830,
-      "TotalSize": 292584188535
-    },
-    "version": "0.2.0",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-11-26T02:49:47.4389687Z",
-    "repositoryName": ""
   }
 
 ]
+
 
 
 

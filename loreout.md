@@ -1,4 +1,4 @@
-# LoreOut - Alpha
+# LoreOut
 [![1.0 release trailer](https://github.com/Camora0/Wasteland-Reborn/blob/loreout/LoreOutLogo2.png?raw=true)]()
 [![Install guide](https://github.com/Camora0/Wasteland-Reborn/blob/main/WastelandRebornImage3U.png)](https://youtu.be/NccDkn4NZFU)
 
@@ -89,20 +89,6 @@ The total instance installation time depends entirely on your internet and CPU-S
 #### Problems with Wabbajack
 
 If you run into download issues with Wabbajack, it is recommended to re-running Wabbajack before posting anything. Wabbajack will continue where it left off, so you will not have to  over.
-
-### Modifying INIs
-
-To ensure the proper settings are enabled, you need to run Bethini. 
-
-#### Setting BethINI Pie up incase it is not set up automatically:
-1. Set the Game Path to: "(Your install folder)\Stock Game and make sure to select ***Fallout4.exe***";
-2. Set the INI Path to: "(Your install folder)\profiles\LoreOut";
-3. Use the Restore Backup if you want to use your backed up INIs again. 
-
-#### While Bethini is open, change the following settings, if they are not already set up:
-+ Change the resolution of the game (I use a 1440p monitor, and the inis are set as such.) , display mode (default should be set and left at Borderless Windowed);
-+ Set the presets to Bethini Presets, and press the High button.
-+ Apply the recommended tweaks as well. Then save your settings.
 
 ### Saving on disk space ***(Highly OPTIONAL)***
 

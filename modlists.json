@@ -22,7 +22,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": true,
     "links": {
-      "image": "https://raw.githubusercontent.com/Camora0/Wasteland-Reborn/refs/heads/main/79923-1711389646-1753700373.png",
+      "image": "https://raw.githubusercontent.com/Camora0/Wasteland-Reborn/refs/heads/main/loreoutnexusimage.webp",
       "readme": "https://github.com/Camora0/Wasteland-Reborn/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Wasteland Reborn.wabbajack_322e86b1-5369-4fbd-a095-fac2af83a91d",
       "machineURL": "wasteland_reborn",
@@ -171,4 +171,5 @@
     "dateUpdated": "2025-11-26T02:49:47.4389687Z",
     "repositoryName": ""
   }
+
 ]

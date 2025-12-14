@@ -24,23 +24,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Camora0/Wasteland-Reborn/refs/heads/main/loreoutnexusimage.webp",
       "readme": "https://github.com/Camora0/Wasteland-Reborn/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Wasteland Reborn.wabbajack_322e86b1-5369-4fbd-a095-fac2af83a91d",
+      "download": "https://authored-files.wabbajack.org/LoreOut.wabbajack_26a27159-5a32-497c-a0ff-d21b252cb87c",
       "machineURL": "wasteland_reborn",
       "discordURL": "https://discord.gg/HVmH8q4nfx",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "BZx6Pn4YtQ0=",
-      "Size": 456568158,
-      "NumberOfArchives": 1000,
-      "SizeOfArchives": 122657518409,
-      "NumberOfInstalledFiles": 138615,
-      "SizeOfInstalledFiles": 188649391081,
-      "TotalSize": 311306909490
+      "Hash": "SEndmwwB65Q=",
+      "Size": 610585728,
+      "NumberOfArchives": 1001,
+      "SizeOfArchives": 121456589797,
+      "NumberOfInstalledFiles": 191748,
+      "SizeOfInstalledFiles": 170383882005,
+      "TotalSize": 291840471802
     },
-    "version": "2.2.3",
+    "version": "1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-05-27T01:13:36.3121254Z",
+    "dateUpdated": "2025-12-14T17:06:53.4934521Z",
     "repositoryName": ""
   },
   {
@@ -171,5 +171,4 @@
     "dateUpdated": "2025-11-26T02:49:47.4389687Z",
     "repositoryName": ""
   }
-
 ]

@@ -163,12 +163,8 @@ Biggie_Boss for the amazing colab and decision making to curate the best possibl
 
 Alexerator, RetroPaladin, Micalov, DegenerateDak, CSEPteam, ShimSham, Grilledturkey, VishVadeva, the entire F4NV, Project Mojave and F4CW teams for providing countless of high-quality mods this Modlist uses.
 
-LivelyNightmare - Writing the majority of the guides I used to build this list, as well as personally helping me.
-
 Ungeziefi - Creating the Midnight Ride, for which this list is based on.
 
 A Raven of Many Hats - Former maintainer of Midnight Ride, who gave me permission to fork it into the list. 
 
 The many, many users of DegenerateDak's Discord for providing feedback, positive and negative, to facilitate the development of this list.
-
-Palurien1985 for writing the first revision of the readme in a moments notice, ElisPlayz for corrections and future upkeep.

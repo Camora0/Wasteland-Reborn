@@ -1,7 +1,7 @@
 [
   {
     "title": "LoreOut",
-    "description": "From the maker of Wasteland Reborn in collaboration with the author of LoreRim comes LoreOut - The Modern Roleplaying Modlist. LoreOut is a modern, immersive, lore-focused reimagining of Fallout 4. Every aspect of the game as been shaped to enhance the gameplay, visuals, roleplayability and much more. Dive in and don't give up!",
+    "description": "From the maker of Wasteland Reborn in collaboration with the author of LoreRim comes LoreOut - The Modern Roleplaying Modlist. LoreOut is a modern, immersive, lore-focused reimagining of Fallout 4. Every aspect of the game as been shaped to enhance the gameplay, visuals, roleplayability and much more. Dive in and don\u0027t give up!",
     "author": "biggieboss and Camora",
     "maintainers": [
       "github/Camora0"
@@ -24,23 +24,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Camora0/Wasteland-Reborn/refs/heads/main/loreoutnexusimage.webp",
       "readme": "https://github.com/Camora0/Wasteland-Reborn/blob/main/loreout.md",
-      "download": "https://authored-files.wabbajack.org/LoreOut.wabbajack_26a27159-5a32-497c-a0ff-d21b252cb87c",
+      "download": "https://authored-files.wabbajack.org/LoreOut.wabbajack_616da1aa-1e93-4340-a984-9d297069353a",
       "machineURL": "wasteland_reborn",
       "discordURL": "https://discord.gg/bungalo",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "SEndmwwB65Q=",
-      "Size": 610585728,
-      "NumberOfArchives": 1001,
-      "SizeOfArchives": 121456589797,
-      "NumberOfInstalledFiles": 191748,
-      "SizeOfInstalledFiles": 170383882005,
-      "TotalSize": 291840471802
+      "Hash": "lVCati06/l0=",
+      "Size": 610545139,
+      "NumberOfArchives": 998,
+      "SizeOfArchives": 121456004516,
+      "NumberOfInstalledFiles": 191739,
+      "SizeOfInstalledFiles": 170382416888,
+      "TotalSize": 291838421404
     },
-    "version": "1.0",
+    "version": "1.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-12-14T17:06:53.4934521Z",
+    "dateUpdated": "2025-12-15T04:39:37.3034823Z",
     "repositoryName": ""
   },
   {
@@ -128,9 +128,4 @@
     "dateUpdated": "2025-07-12T23:03:55.3407946Z",
     "repositoryName": ""
   }
-
 ]
-
-
-
-

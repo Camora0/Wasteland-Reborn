@@ -4,7 +4,8 @@
     "description": "From the maker of Wasteland Reborn in collaboration with the author of LoreRim comes LoreOut - The Modern Roleplaying Modlist. LoreOut is a modern, immersive, lore-focused reimagining of Fallout 4. Every aspect of the game as been shaped to enhance the gameplay, visuals, roleplayability and much more. Dive in and don\u0027t give up!",
     "author": "biggieboss and Camora",
     "maintainers": [
-      "github/Camora0"
+      "github/Camora0",
+      "github/biggie-boss"
     ],
     "game": "fallout4",
     "official": true,
@@ -22,7 +23,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Camora0/Wasteland-Reborn/refs/heads/main/loreoutnexusimage.webp",
+      "image": "https://staticdelivery.nexusmods.com/mods/1151/images/99136/99136-1765680204-59167198.png",
       "readme": "https://github.com/Camora0/Wasteland-Reborn/blob/main/loreout.md",
       "download": "https://authored-files.wabbajack.org/LoreOut.wabbajack_616da1aa-1e93-4340-a984-9d297069353a",
       "machineURL": "wasteland_reborn",
@@ -128,4 +129,5 @@
     "dateUpdated": "2025-07-12T23:03:55.3407946Z",
     "repositoryName": ""
   }
+
 ]

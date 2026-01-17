@@ -103,7 +103,7 @@ Head over to the installation folder, locate the .exe file `ModOrganizer.exe` an
 ### Select your correct resolution
 
 Scroll near to the bottom of left pane in Mod Organizer 2 and look for the category "INI SETTINGS - Choose only one!"
-Select the appropriate file for your display, and ensure no other ini options are actived.
+Select the appropriate file for your display, and ensure no other ini options are activated.
 If you are running Ultrawide, or Super Ultrawide you will also need to activate the appropriate option in OPTIONAL PLUGINS just below.  
 
 ### Launching Game

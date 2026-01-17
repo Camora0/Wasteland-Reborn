@@ -8,15 +8,15 @@ This modlist is hosted on [The Modding Bungalo](https://discord.gg/bungalo) Disc
 
 ### An Introduction
 
-LoreOut is a modernized full redesign of Fallout 4, with over 800 mods to build the a highly refined and perfected experience of the game.
+LoreOut is a modernized full re-design of Fallout 4 with over 800 mods to create a highly refined and perfected game experience!
 
 #### A Note About Difficulty
 
-Loreout is built around a custom Survival difficulty setting. This is the only staff and volunteer supported difficulty setting. While LoreOut is built to retain the general aesthetic and gameplay feel of vanilla Fallout 4, many general overhauls have been added; most importantly those that touch on difficulty. As such, we implore you, as a new player, to read through what the mods mentioned do, read up on the perks and skills available in You are Exceptional, and most importantly, don't get discouraged. difficulty is highly adjustable but finely tuned for a more involved experience out of the box.
+Loreout is built around a custom tweaked Survival difficulty setting. This is the only staff and volunteer supported difficulty setting. While LoreOut is built to retain the general aesthetic and gameplay feel of vanilla Fallout 4, many general overhauls have been added; most importantly those that touch on difficulty. As such, we implore you as a new player to read through what the mods mentioned do. Read up on the perks and skills available in You are Exceptional, and most importantly, don't get discouraged! Difficulty is highly adjustable, but is finely tuned for a more involved experience right out of the box.
 
 #### Hardware Requirements
 
-An SSD is ***ABSOLUTELY REQUIRED***. Hard Disk Drives (HDDs) are, unfortunately, too slow for stable performance (and can cause install or other general issues) due to the nature of the HDD itself. 
+An SSD is ***ABSOLUTELY REQUIRED***. Hard Disk Drives (HDDs) are unfortunately too slow for stable performance (and can cause install or other general issues) due to the nature of the HDD itself. 
 
 **For ~90-120FPS @ 1080P**
 1. CPU: AMD Ryzen 7 5700x3D / Intel Equivalent
@@ -39,7 +39,7 @@ You most likely already have this installed. The package is required for MO2, an
 
 #### Turn off Steam updates
 
-To turn off Steam automatically updating the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_.
+To turn off Steam automatically updating the game for you, head over to the Properties window. Navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_.
 
 **This game does use a Stock Game Folder, so it should be fine in the event of an update, but it is still best practice to turn it off.**
 
@@ -47,13 +47,13 @@ To turn off Steam automatically updating the game for you, head over to the Prop
 
 #### Cleaning Fallout 4
 
-It is highly recommended to uninstall the game through Steam, delete the game folder, and reinstall it. It is also recommended to delete the `Fallout4` folder in `Documents/My Games/`. Please also delete anything located in `%LocalAppData%/Fallout 4`. Note: Before doing so, make sure that you have backed up anything important as the Documents folder typically contains save game files and .ini files used prior to the installation. There are youtube videos on this process should you need a visual aid.
+It is highly recommended to uninstall the game through Steam, delete the game folder, and reinstall it. It is also recommended to delete the `Fallout4` folder in `Documents/My Games/`. Please also delete anything located in `%LocalAppData%/Fallout 4`. Note: Before doing so make sure that you have backed up anything important, as the Documents folder typically contains save game files and .ini files used prior to the installation. There are youtube videos on this process should you need a visual aid.
 
 #### Initial launching of Fallout 4
 
-After you have done everything above and have a clean Fallout 4 game folder, run the Launcher and let it do the initial graphics check. Do not worry about this part as the installation will replace these graphics settings, then  Fallout 4. 
+After you have done everything above and have a clean Fallout 4 game folder, run the Launcher and let it do the initial graphics check. The Loreout installation will replace these graphics settings afterwards. 
 
-Once the Main Menu has loaded you may exit. After doing this, DO NOT play Fallout 4 again using the Launcher, as it will revert your .ini files and could mess up your settings.
+Once the Main Menu has loaded you may exit. After doing this DO NOT play Fallout 4 again using the Launcher as it will revert your .ini files and could mess up your settings.
 
 #### Assigning pagefile
 
@@ -64,7 +64,7 @@ Set the initial size to the size of your RAM size. For example, I have 32 GB of 
 
 #### Adding MS Defender exception
 
-Sometimes antiviruses like to lock files before checking them or cause some unexpected and mostly un-needed behaviour. This occurs the most during extraction or building BSAs phases of the install. Keep in mind, if it is just a simple
+Sometimes antiviruses like to lock files before checking them or cause some unexpected and mostly un-needed behaviour. This occurs the most during extraction or building BSAs phases of the install.
 
 All issue that come from this can be fixed by adding files `f4se.exe` and `ModOrganizer.exe` as exceptions.
 [![Here's a video on how to change it.]()](https://youtu.be/zGiNGnX5dYg?t=34)
@@ -78,13 +78,13 @@ Download the latest version of Wabbajack [here](https://github.com/wabbajack-too
 
 #### Download and Installation
 
-The total instance installation time depends entirely on your internet and CPU-Storage speeds To speed up this process it is advised to place the instance (installation) folder on an SSD.
+The total instance installation time depends entirely on your internet and CPU-Storage speeds.
 
 2. Open Wabbajack.
 3. Click `Browse Lists` then make sure that `Non-featured` option is selected on the left of the UI, below the search bar. Find `LoreOut` and click on it.
 4. Set your download and installation paths. The recommended Installation Path is a blank folder at the root of a drive (preferably not the C drive), such as D:\LoreOut. The download path will update automatically. There's an option to put the download folder on another drive, for example an HDD, but the instance **must** on an SSD.
 5. Then click the Install button.
-6. Wait for Wabbajack to finish. It may take a while depending on your internet speed and if you are using an SSD or HDD.
+6. Wait for Wabbajack to finish. It may take a while depending on your internet speed and if you are a Free or Premium Nexus subscriber. Unfortunately, Nexus Premium is the only method of automatically installing each mod.
 
 #### Problems with Wabbajack
 
@@ -92,8 +92,8 @@ If you run into download issues with Wabbajack, it is recommended to re-run Wabb
 
 ### Saving on disk space ***(Highly OPTIONAL)***
 
-After a successful download deleting the ***downloads*** folders content is safe. 
-Note: If the user does end up cleaning the folder, any form of updating or redownloading ***WILL*** result in the mod archieves being redownloaded.
+After a successful download deleting the ***downloads*** folders content is safe to do if you need the space. 
+Note: If you do decide to delete the folder, any form of updating or re-downloading the modlist ***WILL*** result in some mod archives being re-downloaded which may increase your update time.
 
 
 ### How to setup LoreOut
@@ -102,18 +102,18 @@ Head over to the installation folder, locate the .exe file `ModOrganizer.exe` an
 
 ### Select your correct resolution
 
-Scroll near to the bottom of left pane in Mod Organizer 2 for the category "INI SETTINGS - Choose only one!"
-Select the appropriate file for your display, and ensure no other ini options are active.
-If you are running Ultrawide, or SuperUltrawide you will also need to select the appropriate option in OPTIONAL PLUGINS just below.  
+Scroll near to the bottom of left pane in Mod Organizer 2 and look for the category "INI SETTINGS - Choose only one!"
+Select the appropriate file for your display, and ensure no other ini options are actived.
+If you are running Ultrawide, or Super Ultrawide you will also need to activate the appropriate option in OPTIONAL PLUGINS just below.  
 
 ### Launching Game
 
-There will be a drop-down box on the upper right of MO2 and a big run button right next to it. Ensure that it is set to `LoreOut`, if not select it in the drop-down box, and then click the run button. You have to run the modlist through Mod Organizer 2 in order to load the mods correctly as Mod Organizer handles most mods via VFS (Virtual File System).
+There is a drop-down box on the upper right of MO2 and a big "Run" button right next to it. Ensure that it is set to `LoreOut`. If not, select it in the drop-down box and click the run button. You have to run the modlist through Mod Organizer 2 in order to load the mods correctly, as Mod Organizer handles most mods via VFS (Virtual File System).
 
 
-### IT IS IMPERATIVE YOU SET THESE UP TO GET THE INTENDED GAMEPLAY EXPERIENCE
+### IT IS IMPERATIVE YOU SET THESE TO GET THE INTENDED GAMEPLAY EXPERIENCE
 
-First, create your character. Once you have exited the vault, press ESC. Select Mod Config and navigate to the MCM settings menu. Then click on the dropdown titled "MCM Settings", and then "MCM Settings Manager". Press Apply on the preset. Afterwards you will need to exit back into the game to select "Remove" on a pop up regarding Legendary effects. Confirm that pop up, then go back to the MCM settings manager and re-apply the preset settings. 
+First, create your character. Once you have exited the vault press ESC. Select Mod Config and navigate to the MCM settings menu. Then click on the dropdown titled "MCM Settings", and then "MCM Settings Manager". Press Apply on the preset. Afterwards you will need to exit back into the game to select "Remove" on a pop up regarding Legendary effects. Confirm that pop up, then go back to the MCM settings manager and re-apply the preset settings. 
 
 Once this is done, save your game, then exit to desktop. Restart the game and you're good to go!
 

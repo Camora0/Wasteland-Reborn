@@ -62,11 +62,11 @@ This step is important to those who have not modded before. This system has to d
 Set the initial size to the size of your RAM size. For example, I have 32 GB of RAM, so I set mine to 32. My max is set to 48 GB. Use the same proportions for your own RAM configuration.
 [![Here's a video on how to change it.]()](https://youtu.be/beHDr6OFjlw?t=22)
 
-#### Adding MS Defender exception
+#### Adding Anti-virus / MS Defender exceptions
 
-Sometimes antiviruses like to lock files before checking them or cause some unexpected and mostly un-needed behaviour. This occurs the most during extraction or building BSAs phases of the install.
+Sometimes antivirus likes to lock files before checking them or cause some unexpected and mostly un-needed behavior. This occurs the most during extraction or building BSAs phases of the install.
 
-All issue that come from this can be fixed by adding files `f4se.exe` and `ModOrganizer.exe` as exceptions.
+Issues that come from this can be fixed by adding files f4se.exe and ModOrganizer.exe as exceptions
 [![Here's a video on how to change it.]()](https://youtu.be/zGiNGnX5dYg?t=34)
 
 
@@ -104,7 +104,15 @@ Head over to the installation folder, locate the .exe file `ModOrganizer.exe` an
 
 Scroll near to the bottom of left pane in Mod Organizer 2 and look for the category "INI SETTINGS - Choose only one!"
 Select the appropriate file for your display, and ensure no other ini options are activated.
-If you are running Ultrawide, or Super Ultrawide you will also need to activate the appropriate option in OPTIONAL PLUGINS just below.  
+If you are running Ultrawide, or Super Ultrawide you will also need to activate the appropriate option in OPTIONAL PLUGINS just below.
+
+### If you have a zoomed or gapped display even with the above correct ini settings
+ 
+Some users also needed to:
+Right‑click LoreOut\Stock Game\Fallout4.exe
+Open Properties → Change high DPI settings
+Enable Override high DPI scaling behavior
+Set scaling to Application
 
 ### Launching Game
 

@@ -33,6 +33,13 @@ Do note that you MUST use ***FULL (ALL DLC, except high-res textures) LATEST*** 
 
 These steps are only needed if you are installing LoreOut for the first time.
 
+#### Adding Anti-virus / MS Defender exceptions
+
+Sometimes antivirus likes to lock files before checking them or cause some unexpected and mostly un-needed behavior. This occurs the most during extraction or building BSAs phases of the install.
+
+Issues that come from this can be fixed by adding files f4se.exe and ModOrganizer.exe as exceptions
+[![Here's a video on how to change it.]()](https://youtu.be/zGiNGnX5dYg?t=34)
+
 #### Microsoft Visual C++ Redistributable Package
 
 You most likely already have this installed. The package is required for MO2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if the other link doesn't work.
@@ -55,20 +62,6 @@ After you have done everything above and have a clean Fallout 4 game folder, run
 
 Once the Main Menu has loaded you may exit. After doing this DO NOT play Fallout 4 again using the Launcher as it will revert your .ini files and could mess up your settings.
 
-#### Assigning pagefile
-
-This step is important to those who have not modded before. This system has to do with how much RAM Windows can allocate to a process (the additional space comes from the disk the pagefile is in).
-
-Set the initial size to the size of your RAM size. For example, I have 32 GB of RAM, so I set mine to 32. My max is set to 48 GB. Use the same proportions for your own RAM configuration.
-[![Here's a video on how to change it.]()](https://youtu.be/beHDr6OFjlw?t=22)
-
-#### Adding Anti-virus / MS Defender exceptions
-
-Sometimes antivirus likes to lock files before checking them or cause some unexpected and mostly un-needed behavior. This occurs the most during extraction or building BSAs phases of the install.
-
-Issues that come from this can be fixed by adding files f4se.exe and ModOrganizer.exe as exceptions
-[![Here's a video on how to change it.]()](https://youtu.be/zGiNGnX5dYg?t=34)
-
 
 ### Wabbajack
 
@@ -80,20 +73,15 @@ Download the latest version of Wabbajack [here](https://github.com/wabbajack-too
 
 The total instance installation time depends entirely on your internet and CPU-Storage speeds.
 
-2. Open Wabbajack.
-3. Click `Browse Lists` then make sure that `Non-featured` option is selected on the left of the UI, below the search bar. Find `LoreOut` and click on it.
-4. Set your download and installation paths. The recommended Installation Path is a blank folder at the root of a drive (preferably not the C drive), such as D:\LoreOut. The download path will update automatically. There's an option to put the download folder on another drive, for example an HDD, but the instance **must** on an SSD.
-5. Then click the Install button.
-6. Wait for Wabbajack to finish. It may take a while depending on your internet speed and if you are a Free or Premium Nexus subscriber. Unfortunately, Nexus Premium is the only method of automatically installing each mod.
+1. Open Wabbajack.
+2. Click `Browse Lists` then make sure that `Non-featured` option is selected on the left of the UI, below the search bar. Find `LoreOut` and click on it.
+3. Set your download and installation paths. The recommended Installation Path is a blank folder at the root of a drive (preferably not the C drive), such as D:\LoreOut. The download path will update automatically. There's an option to put the download folder on another drive, for example an HDD, but the instance **must** on an SSD.
+4. Then click the Install button.
+5. Wait for Wabbajack to finish. It may take a while depending on your internet speed and if you are a Free or Premium Nexus subscriber. Unfortunately, Nexus Premium is the only method of automatically installing each mod.
 
 #### Problems with Wabbajack
 
 If you run into download issues with Wabbajack, it is recommended to re-run Wabbajack before posting anything on Discord. Wabbajack will continue where it left off, so you will not have to start over. Another common fix is to use the gear icon in lower left of screen, sign out of Nexus. Close and restart Wabbajack. Sign in to Nexus.
-
-### Saving on disk space ***(Highly OPTIONAL)***
-
-After a successful download deleting the ***downloads*** folders content is safe to do if you need the space. 
-Note: If you do decide to delete the folder, any form of updating or re-downloading the modlist ***WILL*** result in some mod archives being re-downloaded which may increase your update time.
 
 
 ### How to setup LoreOut
@@ -106,10 +94,10 @@ Scroll near to the bottom of left pane in Mod Organizer 2 and look for the categ
 Select the appropriate file for your display, and ensure no other ini options are activated.
 If you are running Ultrawide, or Super Ultrawide you will also need to activate the appropriate option in OPTIONAL PLUGINS just below.
 
-### If you have a zoomed or gapped display even with the above correct ini settings
+### If you have a zoomed or mis-aligned display even with the correct ini settings
  
-Some users also needed to:
-Right‑click LoreOut\Stock Game\Fallout4.exe > Open Properties > Change high DPI settings > Enable Override > high DPI scaling behavior > Set scaling to Application
+Some users also need to take this step:
+In Windows Explorer open the LoreOut\Stock Game folder. Right-click Fallout4.exe > Properties > Change High DPI settings > Enable Override > High DPI Scaling Behavior > Set scaling to Application
 
 ### Launching Game
 
@@ -127,9 +115,9 @@ Once this is done, save your game, then exit to desktop. Restart the game and yo
 <details>
 <summary><h2>Updating the list</h2></summary>
 
-If LoreOut receives an update, please check the Changelog before doing anything.
+If LoreOut receives an update, please check the Changelog before doing anything. Changelog will notify you if the update is SAVE-SAFE or not. 
 
-To apply an update, simply run the Wabbajack process again, and it will overwrite your current install. 
+To apply an update, simply run the Wabbajack process again and it will overwrite your current install. 
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 

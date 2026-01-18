@@ -29,7 +29,9 @@ An SSD is ***ABSOLUTELY REQUIRED***. Hard Disk Drives (HDDs) are unfortunately t
 
 ### Pre-Installation
 
-Do note that you MUST use ***FULL (ALL DLC, except high-res textures) LATEST*** Steam version of Fallout 4 because we've said so. Not up for debates. In case you've got the AE (the latest DLC or whatever they call it), **DO NOT** manually downgrade. Wabbajack will do it for you.
+Do note that you MUST use a ***FULL (ALL DLC, except high-res textures) LATEST*** Steam version of Fallout 4 because we've said so. Not up for debates. In case you've got the AE (the latest DLC or whatever they call it), **DO NOT** manually downgrade. Wabbajack will do it for you.
+
+Your Fallout 4 Steam install must be set to the English language or the Wabbajack install will fail. 
 
 These steps are only needed if you are installing LoreOut for the first time.
 

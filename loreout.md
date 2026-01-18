@@ -109,10 +109,7 @@ If you are running Ultrawide, or Super Ultrawide you will also need to activate 
 ### If you have a zoomed or gapped display even with the above correct ini settings
  
 Some users also needed to:
-Right‑click LoreOut\Stock Game\Fallout4.exe
-Open Properties → Change high DPI settings
-Enable Override high DPI scaling behavior
-Set scaling to Application
+Right‑click LoreOut\Stock Game\Fallout4.exe > Open Properties > Change high DPI settings > Enable Override > high DPI scaling behavior > Set scaling to Application
 
 ### Launching Game
 

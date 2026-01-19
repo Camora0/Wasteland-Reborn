@@ -99,7 +99,8 @@ If you are running Ultrawide, or Super Ultrawide you will also need to activate 
 ### If you have a zoomed or mis-aligned display even with the correct ini settings
  
 Some users also need to take this step:
-In Windows Explorer open the LoreOut\Stock Game folder. Right-click Fallout4.exe > Properties > Change High DPI settings > Enable Override > High DPI Scaling Behavior > Set scaling to Application
+In Windows Explorer open the LoreOut\Stock Game folder. Right-click Fallout4.exe > Properties > Change High DPI settings > Enable Override > High DPI Scaling Behavior > Set scaling to Application.
+
 Finally, a small number of users have also needed to adjust the High DPI settings with \LoreOut\mods\Fallout 4 Script Extender (F4SE)\Root > f4se_loader.exe
 
 ### Launching Game

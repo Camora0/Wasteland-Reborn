@@ -54,6 +54,12 @@ To turn off Steam automatically updating the game for you, head over to the Prop
 
 *It is also highly recommended to turn off Steam Overlay, Medal, or any other Overlay programs.*
 
+
+### Frame-gen / Smooth Motion / Upscaling
+
+Loreout provides Upscaling and Frame Generation as part of the installation. If your GPU has these options as well, please ensure they are disabled in the Nvidia settings to avoid issues. 
+
+
 #### Cleaning Fallout 4
 
 It is highly recommended to uninstall the game through Steam, delete the game folder, and reinstall it. It is also recommended to delete the `Fallout4` folder in `Documents/My Games/`. Please also delete anything located in `%LocalAppData%/Fallout 4`. Note: Before doing so make sure that you have backed up anything important, as the Documents folder typically contains save game files and .ini files used prior to the installation. There are youtube videos on this process should you need a visual aid.

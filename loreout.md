@@ -21,7 +21,7 @@ An SSD is ***ABSOLUTELY REQUIRED***. Hard Disk Drives (HDDs) are unfortunately t
 **For ~90-120FPS @ 1080P**
 1. CPU: AMD Ryzen 7 5700x3D / Intel Equivalent
 2. GPU: AMD Radeon 6700XT / Nvidia RTX 3070
-3. RAM: 32gb on Windows based systems/ 16gb on Linux distros
+3. RAM: 32gb on Windows based systems/ 16gb on Linux (Linux is not officially supported by Loreout staff)
 ---
 
 <details>

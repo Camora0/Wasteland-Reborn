@@ -97,10 +97,9 @@ If you run into download issues with Wabbajack, it is recommended to re-run Wabb
 
 #### ATTENTION!! MISSING NEXUS FILES as of May 2026
 
-There are three mods that you must acquire externally due to them being removed from the Nexus website. Start the Wabbajack install process as above. The install process will fail. That's ok. Close Wabbajack and manually add these zip files to the Loreout/Downloads. Run Wabbajack install process again, and it will continue from where it failed. 
+There are two mods that you must acquire externally due to them being removed from the Nexus website. Start the Wabbajack install process as above. The install process may fail. That's ok. Close Wabbajack and manually add these zip files to the Loreout/Downloads. Run Wabbajack install process again, and it will continue from where it failed. 
 
 * MiscHairstyle1.6 and MoreHairstyles-MoreBeards  https://fo4-mischairstyle.tumblr.com/post/139169515871/mischairstyle16-download-47-new-hairs-for-male
-* VaultSuitRetextured2K  https://mega.nz/file/ADIDCABD#_g6Rs9NCtS_G4T3mTwxoX_hHxxy0wTSr0SkPaaWid20
 
 
 ### How to setup LoreOut

@@ -31,6 +31,8 @@ An SSD is ***ABSOLUTELY REQUIRED***. Hard Disk Drives (HDDs) are unfortunately t
 
 Do note that you MUST use a ***FULL (ALL DLC, WITHOUT high-res textures) LATEST*** Steam version of Fallout 4 because we've said so. Not up for debates. In case you've got the AE (the latest DLC or whatever they call it), **DO NOT** manually downgrade. Wabbajack will do it for you.
 
+As noted above, Loreout downgrades, and therefore does NOT use Creation Club content. 
+
 Your Fallout 4 Steam install must be set to the English language or the Wabbajack install will fail. 
 
 Make certain your Fallout 4 installation path is not set to install in a \ProgramFiles\ folder, as this can and will cause issues. 

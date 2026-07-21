@@ -74,7 +74,7 @@ It is highly recommended to uninstall the game through Steam, delete the game fo
 
 After you have done everything above and have a clean Fallout 4 game folder, run the Launcher and let it do the initial graphics check. The Loreout installation will replace these graphics settings afterwards. 
 
-Once the Main Menu has loaded you may exit. After doing this DO NOT play Fallout 4 again using the Launcher as it will revert your .ini files and could mess up your settings.
+After doing this DO NOT play Fallout 4 again using the Launcher as it will revert your .ini files and could mess up your settings.
 
 
 ### Wabbajack

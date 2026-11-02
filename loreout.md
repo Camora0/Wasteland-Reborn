@@ -61,9 +61,9 @@ To turn off Steam automatically updating the game for you, head over to the Prop
 *It is also highly recommended to turn off Steam Overlay, Medal, or any other Overlay programs.*
 
 
-### Frame-gen / Smooth Motion / Upscaling
+### Upscaling
 
-Loreout provides Upscaling and Frame Generation as part of the installation. If your GPU has these options as well, please ensure they are disabled in the Nvidia settings to avoid issues. 
+Loreout provides Upscaling as part of the installation. If your GPU has this feature as well, please ensure they are disabled in the Nvidia settings to avoid issues. 
 
 
 #### Cleaning Fallout 4

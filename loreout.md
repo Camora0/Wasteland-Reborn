@@ -128,7 +128,7 @@ There is a drop-down box on the upper right of MO2 and a big "Run" button right 
 
 ### IT IS IMPERATIVE YOU SET THESE TO GET THE INTENDED GAMEPLAY EXPERIENCE
 
-First, create your character. Once you have exited the vault press ESC. Select Mod Config and navigate to the MCM settings menu. Then click on the dropdown titled "MCM Settings", and then "MCM Settings Manager". Press Apply on the preset. Afterwards you will need to exit back into the game to select "Remove" on a pop up regarding Legendary effects. Confirm that pop up. 
+First, create your character. Once you have exited the vault, WAIT. There will be quite a few popups in the top left corner of your screen. It will take about two minutes for them to finish. Once your screen is clear of popups, press ESC. Select Mod Config and navigate to the MCM settings menu. Then click on the dropdown titled "MCM Settings", and then "MCM Settings Manager". Press Apply on the preset. Afterwards you will need to exit back into the game to select "Remove" on a pop up regarding Legendary effects. Confirm that pop up. 
 
 Once this is done, save your game, then exit to desktop. Restart the game and you're good to go!
 

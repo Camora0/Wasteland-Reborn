@@ -25,24 +25,24 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1151/images/99136/99136-1765680204-59167198.png",
       "readme": "https://github.com/Camora0/Wasteland-Reborn/blob/main/loreout.md",
-      "download": "https://authored-files.wabbajack.org/LoreOut.wabbajack_c25b58d4-8455-4ee7-aa75-520ba6118a69",
+      "download": "https://authored-files.wabbajack.org/LoreOut.wabbajack_814db441-1754-43f5-b04f-ca067232de3f",
       "machineURL": "wasteland_reborn",
       "discordURL": "https://discord.gg/bungalo",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "xbQVz49myiM=",
-      "Size": 919895307,
+      "Hash": "P7q6XPw75LQ=",
+      "Size": 1269877708,
       "NumberOfArchives": 1080,
-      "SizeOfArchives": 136062514686,
-      "NumberOfInstalledFiles": 203100,
-      "SizeOfInstalledFiles": 175739212849,
-      "TotalSize": 311801727535
+      "SizeOfArchives": 136029423366,
+      "NumberOfInstalledFiles": 199204,
+      "SizeOfInstalledFiles": 175509758589,
+      "TotalSize": 311539181955
     },
-    "version": "2.0.6",
+    "version": "2.0.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-11-10T03:52:32.0745427Z",
+    "dateUpdated": "2026-11-11T04:14:17.9786337Z",
     "repositoryName": ""
   }
 ]
